@@ -1,0 +1,1 @@
+flaw detection of the internal cavity of the pipeline — process of determining, recording or transmitting of geometric, physical and other parameters of the pipeline and its anti-corrosion coating, which defines its technical reliability, using a set of sensor placed inside the pipeline;

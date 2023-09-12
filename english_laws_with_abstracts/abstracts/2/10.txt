@@ -1,0 +1,5 @@
+junior bachelor diploma;
+bachelor diploma;
+master diploma;
+doctor of philosophy diploma;
+doctor of sciences diploma.

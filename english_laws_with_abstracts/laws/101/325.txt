@@ -1,0 +1,1 @@
+The duration of the break between shifts must be not less than the doubled duration of work in the previous shift (including lunch break).

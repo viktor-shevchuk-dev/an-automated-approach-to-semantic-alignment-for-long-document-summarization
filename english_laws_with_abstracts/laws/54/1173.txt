@@ -1,0 +1,1 @@
+The list shall contain the location (address) of the land plot, its purpose (functional use), area, cadastral number, terms of sale.

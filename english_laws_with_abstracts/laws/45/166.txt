@@ -1,0 +1,1 @@
+6. The state registrar shall access the United State Register by means of multi-factor authentication.

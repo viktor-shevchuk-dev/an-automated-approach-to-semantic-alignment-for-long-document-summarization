@@ -1,0 +1,1 @@
+performs registration and accounting of tram cars and trolleybuses;

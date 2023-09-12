@@ -1,0 +1,1 @@
+fishery pond is a fishery water object for breed, support and/or cultivation of aquaculture objects;

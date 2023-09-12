@@ -1,0 +1,1 @@
+2. The application shall relate to one indication of goods origin only.

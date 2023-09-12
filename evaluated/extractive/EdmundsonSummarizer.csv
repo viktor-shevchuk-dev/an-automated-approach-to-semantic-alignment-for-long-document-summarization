@@ -1,0 +1,2 @@
+Approach,Method,rouge_1,rouge_2,rouge_L,avg_rouge,precision,recall,f1
+extractive,EdmundsonSummarizer,0.32,0.13,0.18,0.21,0.85,0.83,0.84

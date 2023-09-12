@@ -1,0 +1,1 @@
+A decision to change an address shall additionally contain the preliminary address of the completed construction object.

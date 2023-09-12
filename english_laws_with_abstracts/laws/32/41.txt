@@ -1,0 +1,1 @@
+heat supply facility maintenance entity is a business entity for maintenance of means of production, transportation and consumption of thermal energy;

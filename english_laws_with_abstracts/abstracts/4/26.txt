@@ -1,0 +1,3 @@
+state, regional, municipal, facility-based rescue services and rescue services of community organizations;
+specialized and non-specialized rescue services;
+professional and non-professional rescue services.

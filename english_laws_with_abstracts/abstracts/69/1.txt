@@ -1,0 +1,2 @@
+The objects of lease are land plots which are owned by the citizens, legal entities, municipal economy or
+state. Land plot may be leased together with plants, buildings, constructions, basins, which are located thereon, or without them.

@@ -1,0 +1,1 @@
+bus route is the route of the bus between the starting and the end points with certain places on the road for boarding (disembarking) of passengers;

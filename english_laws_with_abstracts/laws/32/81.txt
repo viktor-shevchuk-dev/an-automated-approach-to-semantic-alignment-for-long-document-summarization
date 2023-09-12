@@ -1,0 +1,1 @@
+heat supply planning, development and implementation of heat supply schemes for cities/towns and other settlements in Ukraine, which should be valid for at least 5–7 years based on the optimal combination of centralised and autonomous heat supply systems;

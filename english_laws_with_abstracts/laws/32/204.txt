@@ -1,0 +1,1 @@
+Heat-generating entity shall have the right to supply the produced thermal energy directly to the consumer in accordance with the purchase and sale contract. If this entity is not a heat-transporting entity, a heat-transporting entity shall not have the right to deny the heat-generating entity in thermal energy transportation, if the technical capabilities of the system allow it.

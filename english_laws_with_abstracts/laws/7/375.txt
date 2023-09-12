@@ -1,0 +1,1 @@
+3) Number of votes held by participants who did not vote.

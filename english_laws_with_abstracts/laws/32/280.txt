@@ -1,0 +1,1 @@
+recover losses in case of violations in the operation of the consumer's thermal equipment, which led to interruptions in the heat supply process;

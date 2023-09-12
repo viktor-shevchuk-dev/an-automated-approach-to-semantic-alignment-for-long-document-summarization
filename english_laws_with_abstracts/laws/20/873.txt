@@ -1,0 +1,1 @@
+On the date on which the information defined in this part is entered into the Register of Construction Activities, the electronic system software shall automatically transmit to the address assigning body a notification of the need to change, assign or cancel the address of the object of new construction.

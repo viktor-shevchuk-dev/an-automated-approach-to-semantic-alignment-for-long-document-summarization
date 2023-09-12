@@ -1,0 +1,2 @@
+resident education (daytime, evening);
+correspondence (distance) education.

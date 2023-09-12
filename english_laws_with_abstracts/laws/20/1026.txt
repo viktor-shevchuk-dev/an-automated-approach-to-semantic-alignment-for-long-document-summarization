@@ -1,0 +1,1 @@
+The state architectural and construction control body shall use information from the electronic system to implement state architecture and construction control measures.

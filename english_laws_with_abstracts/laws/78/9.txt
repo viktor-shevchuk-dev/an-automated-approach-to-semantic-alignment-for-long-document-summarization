@@ -1,0 +1,1 @@
+diagnostics — a set of technical measures to determine the technical parameters of the pipeline;

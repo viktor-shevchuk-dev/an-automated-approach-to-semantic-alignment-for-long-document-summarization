@@ -1,0 +1,1 @@
+verbally warn the participant or the invited person about the need to stop violations, but not more than once for each type of violation;

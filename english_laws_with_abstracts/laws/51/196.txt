@@ -1,0 +1,1 @@
+The double warehouse certificate consists of two parts: a warehouse certificate and a pledge certificate (warrant), which can be separated.

@@ -1,0 +1,2 @@
+open information;
+information with limited access.

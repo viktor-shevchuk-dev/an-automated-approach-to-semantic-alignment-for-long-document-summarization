@@ -1,0 +1,1 @@
+3. Fire units go to all fires except for fires at underground facilities (apart from operating underground stations).

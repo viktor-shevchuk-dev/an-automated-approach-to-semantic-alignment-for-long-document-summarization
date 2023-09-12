@@ -1,0 +1,1 @@
+On the date of entry of information on assignment, change, adjustment of address/refusal of assignment, change, adjustment of address in the Register of Construction Activities, the electronic system software shall provide that the notification of assignment, change, adjustment of address is automatically sent for information of the address assigning body.

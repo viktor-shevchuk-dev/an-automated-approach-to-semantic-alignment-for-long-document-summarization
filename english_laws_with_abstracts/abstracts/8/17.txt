@@ -1,0 +1,12 @@
+industrial park name;
+industrial park initiator;
+purpose, task and functionality of the industrial park;
+land plot location and area;
+term for which the industrial park is created;
+requirements to the industrial park members;
+tentative total volumes of energy consumption, water consumption, etc.;
+industrial park development plan;
+tentative resources (financial, material, technical, labor, natural, etc.) required for the industrial park creation and functioning, and their expected sources;
+organizational model of the industrial park functioning;
+expected results of the industrial park functioning;
+other information, at the discretion of the park initiator.

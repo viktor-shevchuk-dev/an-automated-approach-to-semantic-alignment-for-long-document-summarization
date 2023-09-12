@@ -1,0 +1,1 @@
+3. When implementing equalisation, the value of the tax capacity index for the relevant budget is taken into account.

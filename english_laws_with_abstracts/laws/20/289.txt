@@ -1,0 +1,1 @@
+7. The electronic system software should provide distributed storage of the metadata of the documents and information entered into the electronic system to confirm their origin, integrity and validity.

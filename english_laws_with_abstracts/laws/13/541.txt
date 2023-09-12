@@ -1,0 +1,1 @@
+Instead of a document containing classified information, using the “Single Window” mechanism in the form of an electronic document certified by electronic digital signature, open information about such document shall be transmitted: name (type) of the document, issuer (authority, institution, organisation), level of secrecy, date of issue, registration number.

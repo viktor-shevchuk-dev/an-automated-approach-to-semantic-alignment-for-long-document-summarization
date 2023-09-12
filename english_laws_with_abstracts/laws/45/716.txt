@@ -1,0 +1,1 @@
+1) an application for state registration of an individual as an entrepreneur, which may specify a request for registration of such a person as a payer of value-added tax and/or opting for the simplified taxation system;

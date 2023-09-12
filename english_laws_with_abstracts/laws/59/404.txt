@@ -1,0 +1,1 @@
+By type of transportation, bus routes are divided into: general, special, irregular transportation.

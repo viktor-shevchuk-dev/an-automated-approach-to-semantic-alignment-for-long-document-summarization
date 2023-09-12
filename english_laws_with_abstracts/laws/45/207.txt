@@ -1,0 +1,1 @@
+16) type of a constituent document (founding act, charter, model charter, foundation agreement, sole declaration (memorandum), regulations, etc.) and the constituent document, as well as the digital code of a model charter (if the model charter is multi-version);

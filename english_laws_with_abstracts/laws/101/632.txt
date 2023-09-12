@@ -1,0 +1,1 @@
+If the day of salary payment coincides with a weekend day, holiday or day off, wage shall be paid the day before.

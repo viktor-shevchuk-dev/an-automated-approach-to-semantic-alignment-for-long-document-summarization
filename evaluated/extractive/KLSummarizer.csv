@@ -1,0 +1,2 @@
+Approach,Method,rouge_1,rouge_2,rouge_L,avg_rouge,precision,recall,f1
+extractive,KLSummarizer,0.35,0.13,0.2,0.23,0.83,0.82,0.83

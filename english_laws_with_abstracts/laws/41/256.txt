@@ -1,0 +1,1 @@
+2) number of a court case, category and coefficient of its complexity, names (titles) of case parties;

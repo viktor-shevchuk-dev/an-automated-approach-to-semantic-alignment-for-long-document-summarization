@@ -1,0 +1,16 @@
+full name of the corporate fund in Ukrainian;
+corporate fund type (open, interval, closed);
+corporate fund kind (diversified, non-diversified, specialized, qualifying);
+investment fund class, if the corporate fund is specialized or qualifying;
+membership of the corporate fund in a venture or exchange-traded fund;
+mention of collective investment as the only type of the corporate fund’s activity;
+limitations of activity according to the Law;
+term of the corporate fund, if the corporate fund is fixed-term;
+statutory capital amount;
+nominal value and total number of the corporate fund shares;
+procedure for payment of dividends to the corporate fund participants (for a closed corporate fund), except for cases when the charter states that no dividends are paid out;
+procedure for calling and holding general meetings;
+means of informing the corporate fund participants of changes in the general meeting agenda;
+number and competence of the supervisory board, and its decision-making procedure;
+procedure for amending the charter;
+procedure for terminating the corporate fund.

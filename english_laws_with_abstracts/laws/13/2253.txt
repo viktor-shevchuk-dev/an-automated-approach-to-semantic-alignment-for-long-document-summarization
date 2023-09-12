@@ -1,0 +1,1 @@
+clause 5 (per subclauses “a”, “b” only (only typical goods description that enables identification of goods), “d” (on item level per UKT ZED), “f”, “g” (only weight in kilograms (import – net and gross weight, export – gross weight) and “h”;

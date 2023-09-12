@@ -1,0 +1,1 @@
+cargo transportation is a transportation of cargos by trucks;

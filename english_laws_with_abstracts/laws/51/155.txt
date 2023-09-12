@@ -1,0 +1,1 @@
+A grain storage facility shall be obliged to notify the grain depositor of the grain storage period expiry and propose the term to claim the grain. Such a notification should be made in writing seven days before the expiration of the grain storage period.

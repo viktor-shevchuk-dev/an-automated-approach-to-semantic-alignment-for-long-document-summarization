@@ -1,0 +1,7 @@
+the value of the share fund assets became less than the minimal required amount of a share fund assets, and did not reach the minimal required level within six months;
+the term of the share fund has expired (for fixed-term share funds);
+the offering memorandum for the share fund investment certificates issued for the purposes of collective investment has not been registered within one year after information about the share fund was entered into the Register;
+within one month after expiration of the agreement with the asset holder of the share fund, the agreement was not extended, and no new agreement was concluded with another asset holder of the share fund;
+the license issued to the asset management company authorizing it to manage assets of institutional investors has expired;
+the license issued to the asset holder of the share fund authorizing it to act as a depositary of securities has expired, and no new agreement was concluded between the asset management company with another share fund asset holder within 30 working days;
+other cases provided for by the Law.

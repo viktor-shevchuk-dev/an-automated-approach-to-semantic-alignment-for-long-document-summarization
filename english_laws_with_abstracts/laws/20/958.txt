@@ -1,0 +1,1 @@
+6. The state architecture and construction control body shall return a declaration on the readiness of the object for commissioning to the customer if the declaration is submitted or issued in violation of the established requirements, with justification of a reason thereto within the term stipulated for its registration.

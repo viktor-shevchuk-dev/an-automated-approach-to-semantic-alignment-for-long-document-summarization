@@ -1,0 +1,1 @@
+open the door of taxi, open the trunk and check if they are closed while boarding passengers;

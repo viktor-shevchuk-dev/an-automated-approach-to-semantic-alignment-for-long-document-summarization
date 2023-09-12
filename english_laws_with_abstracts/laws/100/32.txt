@@ -1,0 +1,1 @@
+group quotas (contingents) – quotas set for goods, determining the group of countries to which goods are exported or from which they are imported;

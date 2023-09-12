@@ -1,0 +1,1 @@
+6) Energy certificate of the construction object and building (for completed construction objects and new construction objects to which the identifier of the construction object is assigned prior to the issuance of energy certificate)

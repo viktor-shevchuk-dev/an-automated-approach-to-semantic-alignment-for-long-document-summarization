@@ -1,0 +1,1 @@
+3) Rescue worker fails to take advanced training within scheduled time;

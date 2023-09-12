@@ -1,0 +1,1 @@
+5. Once a new construction object is commissioned, the identifier of the construction object shall be deemed the identifier of the completed construction object and shall be used to identify such object throughout its existence.

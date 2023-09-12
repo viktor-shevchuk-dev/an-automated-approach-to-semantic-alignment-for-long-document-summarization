@@ -1,0 +1,1 @@
+2) operations on goods preparation for sale and transportation (splitting of a batch, formation of shipments, sorting, repackaging);

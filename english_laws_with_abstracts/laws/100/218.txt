@@ -1,0 +1,1 @@
+– stability of the types number and tax amount shall be guaranteed by the state for a period not less than 5 years;

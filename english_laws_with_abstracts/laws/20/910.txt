@@ -1,0 +1,1 @@
+On the date the permit to carry out construction works is prepared using the Register of Construction Activities, the electronic system software shall automatically transmit to the address assigning body a notification about the need to assign address to the object of new construction.

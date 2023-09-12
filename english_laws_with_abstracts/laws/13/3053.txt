@@ -1,0 +1,1 @@
+i) the list of passengers stating their number onboard, names and initials, embarkation and disembarkation points, information on the passengers’ luggage (passenger boarding list);

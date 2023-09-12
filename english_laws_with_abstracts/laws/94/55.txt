@@ -1,0 +1,1 @@
+provide state registration of applications, rights to plant varieties, varieties and supporting plant varieties;

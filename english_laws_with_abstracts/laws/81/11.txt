@@ -1,0 +1,1 @@
+water area of seaport (port water area) is a part of a water object (objects) determined by the boundaries, except fairway designated for safe approach, manoeuvring, parking and departure of vessels;

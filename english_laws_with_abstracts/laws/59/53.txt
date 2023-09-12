@@ -1,0 +1,1 @@
+bus comfort parameters are design parameters of the bus that determine the comfort of the travel for the passenger;

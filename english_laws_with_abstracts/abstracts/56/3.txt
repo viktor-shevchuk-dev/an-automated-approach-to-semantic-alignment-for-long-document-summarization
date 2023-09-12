@@ -1,0 +1,9 @@
+banks;
+credit unions;
+pawn-shops;
+leasing companies;
+trust associations;
+insurance companies;
+institutions for accumulative pension security;
+investment funds and companies;
+other legal entities, whose exclusive type of activity is the provision of financial services.

@@ -1,0 +1,1 @@
+pond is an artificially created reservoir with a capacity of no more than 1 million cubic meters;

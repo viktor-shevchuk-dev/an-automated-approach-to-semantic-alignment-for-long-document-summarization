@@ -1,0 +1,1 @@
+Lease contract shall define the terms of water object use, amount of lease payment and period of lease contract on water objects.

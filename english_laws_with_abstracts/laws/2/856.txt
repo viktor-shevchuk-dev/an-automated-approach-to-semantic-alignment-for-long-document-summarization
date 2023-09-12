@@ -1,0 +1,1 @@
+multiplied by the weight coefficients set by the Admission Rules of the institution of higher education. The sum of the weight coefficients must be equal to one.

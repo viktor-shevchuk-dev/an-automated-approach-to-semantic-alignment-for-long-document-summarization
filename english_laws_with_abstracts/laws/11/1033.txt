@@ -1,0 +1,1 @@
+last name, first name, patronymic, position held by the person who adopted the ruling;

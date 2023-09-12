@@ -1,0 +1,2 @@
+Approach,Method,rouge_1,rouge_2,rouge_L,avg_rouge,precision,recall,f1
+extractive,RandomSummarizer,0.29,0.1,0.17,0.19,0.84,0.82,0.83

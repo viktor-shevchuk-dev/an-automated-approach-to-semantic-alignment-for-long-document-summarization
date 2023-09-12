@@ -1,0 +1,5 @@
+if they are the plaintiff, injured person, civil plaintiff, civil defendant, immediate relative or family member of the investigator, prosecutor, suspect, accused, plaintiff, injured person, civil plaintiff or civil defendant;
+if they had taken part in the same proceedings in the capacity of a witness, expert, specialist, interpreter, investigator, prosecutor, defense lawyer or representative;
+if they, their immediate relatives or family members are interested in the results of the proceedings;
+under other circumstances that cast doubt upon their impartiality;
+in case of violation of the procedure for determining the investigating magistrate or the judge in the case;

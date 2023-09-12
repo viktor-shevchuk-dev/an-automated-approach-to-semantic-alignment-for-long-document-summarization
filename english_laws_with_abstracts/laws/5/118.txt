@@ -1,0 +1,1 @@
+implementation of programs for scientific and technical development of aquaculture;

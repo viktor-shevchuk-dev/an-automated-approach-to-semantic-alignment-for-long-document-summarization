@@ -1,0 +1,1 @@
+information with a signature of business entity about the buses that will be used on the bus route, indicating the reasons for their use by the carrier;

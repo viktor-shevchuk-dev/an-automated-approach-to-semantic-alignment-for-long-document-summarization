@@ -1,0 +1,1 @@
+The state registration entity that carried out a registration action shall send the documents submitted for registration to the relevant state registration entity authorised to store registration files within three business days from the day of registration.

@@ -1,0 +1,6 @@
+political parties;
+religious organizations;
+non-business entities created according to acts of the bodies of state power, other state bodies, bodies of power of the Autonomous Republic of Crimea, and bodies of local self-government;
+associations of bodies of local self-government and their voluntary unions;
+self-governing organizations and organizations carrying out professional self-government;
+non-business entities (that are not civil associations) created on the basis of other laws.

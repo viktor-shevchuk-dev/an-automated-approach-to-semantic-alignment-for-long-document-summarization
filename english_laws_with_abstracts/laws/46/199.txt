@@ -1,0 +1,1 @@
+If the guaranteed buyer refuses to sign the protocol on the auction results, concluding a contract with the winner, the guaranteed buyer shall draw up an act stating the grounds for such the refusal and publish it in the electronic trading system, after which the electronic trading system automatically generates and publishes a new protocol on auction results.

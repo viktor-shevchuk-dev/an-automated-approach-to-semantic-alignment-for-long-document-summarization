@@ -1,0 +1,1 @@
+Preference for traffic at intersections, where circular movement is organised, is given to vehicles already moving in a circle.

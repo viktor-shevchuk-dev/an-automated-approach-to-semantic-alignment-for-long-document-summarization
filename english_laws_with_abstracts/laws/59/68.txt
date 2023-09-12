@@ -1,0 +1,1 @@
+service book is a document of the established sample for accounting of passing of compulsory maintenance of vehicles of automobile self-employed carriers;

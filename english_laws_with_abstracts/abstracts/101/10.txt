@@ -1,0 +1,1 @@
+The Code sets the list of holidays and days-off when the employees do not work. Each employee is also granted the right to annual basic holiday, which shall not be less than 24 calendar days. Some categories of the employees have annual additional holiday.

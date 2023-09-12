@@ -1,0 +1,1 @@
+tell to passengers the amount of fare payment, indicators of a taximeter at the beginning and at the end of a travel and to explain the procedure of taxi use;

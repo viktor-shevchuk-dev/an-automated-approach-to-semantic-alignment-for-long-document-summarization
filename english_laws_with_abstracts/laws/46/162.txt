@@ -1,0 +1,1 @@
+procedure of the electronic trading system functioning;

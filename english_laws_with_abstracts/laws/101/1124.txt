@@ -1,0 +1,1 @@
+When terms are determined in days, they shall be calculated from the day following the day from when the term begins. If the last day of the term falls on a holiday, weekend or day off, the day of expiration of the term shall be the next working day.

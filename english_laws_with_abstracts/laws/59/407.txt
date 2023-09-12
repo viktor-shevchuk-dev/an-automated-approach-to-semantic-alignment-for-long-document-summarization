@@ -1,0 +1,1 @@
+Two drivers should be sent on bus route that is longer than 500 km.

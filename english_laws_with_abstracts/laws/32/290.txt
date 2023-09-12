@@ -1,0 +1,1 @@
+make resettlements for the consumed thermal energy with consumers taking into account the advance payment and indications of heat energy metering units within a month after the end of the heating period;

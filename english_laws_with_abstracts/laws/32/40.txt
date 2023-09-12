@@ -1,0 +1,1 @@
+heat supply entity is a business entity that supplies thermal energy to consumers;

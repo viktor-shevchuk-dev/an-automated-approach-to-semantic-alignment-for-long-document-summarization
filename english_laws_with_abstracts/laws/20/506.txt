@@ -1,0 +1,1 @@
+1. Identifier of the construction object (completed construction object) shall be a unique set of data (sequence of characters) automatically assigned to the construction object or a completed construction object by the software of the Register of Construction Activities and shall be used to identify such an object.

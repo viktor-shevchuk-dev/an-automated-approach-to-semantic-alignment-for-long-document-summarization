@@ -1,0 +1,1 @@
+5. Entry summary declaration shall be registered by the Automated Customs Clearance System automatically upon its receipt. A registration number assigned to the entry summary declaration shall be sent automatically by the Automated Customs Clearance System to the person who submitted such a declaration.

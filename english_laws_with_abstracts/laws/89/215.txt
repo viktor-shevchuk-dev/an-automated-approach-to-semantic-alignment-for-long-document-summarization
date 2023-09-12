@@ -1,0 +1,1 @@
+Application for a utility model shall cover a single utility model (requirement of the singularity of a utility model).

@@ -1,0 +1,1 @@
+general appointment vehicle is a vehicle that is not equipped with special devices and is charged by to transport the passengers or cargos (bus, passenger car, truck, trailer, semi-trailer with an opened or closed side platform);

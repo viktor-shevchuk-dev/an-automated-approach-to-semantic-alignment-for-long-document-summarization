@@ -1,0 +1,2 @@
+Approach,Method,rouge_1,rouge_2,rouge_L,avg_rouge,precision,recall,f1
+zero_shot_abstractive,facebook_bart_large_cnn,0.41,0.18,0.21,0.27,0.85,0.85,0.85

@@ -1,0 +1,1 @@
+j) description of goods, numbers of bills of lading, quantity of cargo items for each bill of lading, loading and unloading points;

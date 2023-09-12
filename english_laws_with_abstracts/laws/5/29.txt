@@ -1,0 +1,1 @@
+flood spillway is a structure designed for automatical discharge of excess water from a water object during a spring high water or flood;

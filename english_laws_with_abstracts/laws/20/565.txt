@@ -1,0 +1,1 @@
+1) Take a decision on the assignment of an address, which to contain the identifier of the construction object;

@@ -1,0 +1,1 @@
+28) implementation of expenditures, crediting of the local budget, which shall be carried out from another budget in accordance with this Code;

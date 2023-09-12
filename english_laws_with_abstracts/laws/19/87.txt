@@ -1,0 +1,1 @@
+implementation of a pilot project to search, explore, and produce shale gas at the most promising site.

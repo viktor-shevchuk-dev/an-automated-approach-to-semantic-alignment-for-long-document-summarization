@@ -1,0 +1,1 @@
+6) hour, date, month, year and place for appearance of the person summoned;

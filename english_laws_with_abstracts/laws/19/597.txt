@@ -1,0 +1,2248 @@
+Task name
+Indicator name
+Indicator value
+Event name
+Chief administrator of budget funds
+Sources of funding (state, local budget, other)
+Projected amount of financial resources for tasks completing, mln UAH
+Including by years
+total
+including by years
+first stage
+second stage
+third stage
+first stage
+second stage
+third stage
+2011
+2012
+2013–2020
+2021–2030
+2011
+2012
+2013–2020
+2021–2030
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+1. Fuel and energy resources
+1. Building up the mineral resource base of oil, gas, condensate
+increase in reserves and resources (at the expense of the state budget):
+
+
+
+
+
+
+
+
+
+
+conducting geological exploration
+Ministry of Natural Resources and Environment
+
+
+
+
+
+
+
+
+
+
+
+
+oil and condensate, million tons
+72.5
+3
+3.1
+26.4
+40
+
+
+
+
+state budget
+7,287.2
+265.45
+245.45
+2487.29
+4,289.01
+538.57
+22.29
+23.03
+196.11
+297.14
+
+
+
+
+other sources
+88,873.57
+2,822.73
+3,008.02
+30,481.43
+52,561.39
+gas, billion cubic meters
+287
+11.6
+11.8
+103.6
+160
+
+
+
+
+state budget
+6,084.73,
+223.26
+204.55
+2072.74
+3574.18
+2056.83
+83.13
+84.57
+742.47
+1,146.67
+
+
+
+
+other sources
+74,061.3
+2,352.27
+2,506.68
+25,401.19
+43,801.16
+Total
+
+
+state budget
+13,341.93
+488.71
+450
+4,560.03
+7,863.19
+other sources
+162,934.87
+5175
+5,514.7
+55,882.62
+96,362.55
+total
+176,296.8
+5,625
+5,964.7
+60,442.65
+104,225.74
+2. Building up the mineral resource base of hard coal
+industrial reserves, million tons
+1000
+10
+20
+470
+500
+conducting geological exploration
+-"-
+state budget
+186.12
+5.06
+6.33
+64.14
+110.59
+inventory growth, million tons
+572.4
+25
+30
+206.4
+311
+204.73
+5.57
+6.96
+70.55
+121.65
+assessment of reserves and prospective resources, million tons
+1602.6
+70
+90
+571.8
+870.8
+223.34
+6.08
+7.59
+76.96
+132.71
+3. Building up the mineral resource base of brown coal
+industrial reserves, million tons
+100
+4
+6
+40
+50
+conducting geological exploration
+Ministry of Natural Resources and Environment
+state budget
+148.89
+4.05
+5.06
+51.31
+88.47
+inventory growth, million tons
+103
+1.5
+4.5
+41
+56
+55.84
+1.52
+1.9
+19.24
+33.18
+assessment of reserves and prospective resources, million tons
+670
+30
+50
+220
+370
+111.68
+3.04
+3.8
+38.48
+66.36
+4. Building up the mineral resource base of peat
+estimate of reserves and resources, million tons
+17
+1
+1.5
+8
+6.5
+search and exploration within promising areas of Kharkiv, Poltava and Sumy oblasts
+-"-
+-"-
+130.28
+3.54
+4.43
+44.89
+77.42
+5. Building up the mineral resource base of methane from coal deposits
+increase in reserves and resources, billion cubic meters.
+9.5
+0.3
+0.3
+3
+5.9
+field exploration with pilot operation
+-"-
+-"-
+186.12
+5.06
+6.33
+64.14
+110.59
+estimation of reserves and resources of individual sites, billion cubic meters.
+23.4
+0.7
+0.7
+10
+12
+conducting geological exploration
+-"-
+-"-
+223.34
+6.08
+7.59
+76.96
+132.71
+
+
+total
+1,470.34
+40
+49.99
+506.67
+873.68
+6. Building up the mineral resource base of uranium
+providing the current operation of deposits with reserves of industrial categories, conventional units
+11.4
+0.5
+0.5
+4.2
+6.2
+conducting geological exploration
+Ministry of Natural Resources and Environment
+state budget
+335.35
+8.67
+11.42
+115.72
+199.54
+increase in inventory, conventional units
+68.7
+3
+3
+25.4
+37.3
+exploration and preparation for the industrial development of Krynychky and Novohyrivka deposits
+-"-
+-"-
+670.7
+17.35
+22.84
+231.43
+399.08
+-"-
+46.7
+2
+2
+17.3
+25.4
+exploration and transfer to industrial development of Aprel, Partyzansk, Kirovsk and Litne deposits
+-"-
+-"-
+558.91
+14.46
+19.03
+192.86
+332.56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+1,564.96
+40.48
+53.29
+540.01
+931.18
+Total for Section 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+179,339.1
+5,744.19
+6,067.98
+61,489.33
+106,030.6
+including
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state budget
+16,397.23
+569.19
+553.19
+5,606.71
+9,668.05
+other sources
+162,934.87
+5175
+5,514.7
+55,882.62
+96,362.55
+2. Metallic minerals
+7. Building up the mineral resource base of ferrous metal ores.
+increase in reserves of naturally rich iron ores, million tons
+850
+50
+50
+300
+450
+conducting geological exploration within Sukha Balka deposit
+-"-
+state budget
+52.24
+1.76
+1.76
+17.88
+30.84
+increase in reserves of naturally rich iron ores, million tons
+5100
+250
+250
+2000
+2600
+prospecting assessment of Hrushkivka, Sekretarivsk and Novoselytsia manifestations, exploration of Pishchane, Savranske, Baibuzivka and Moldova deposits in the Middle Pobuzhia
+
+
+
+
+62.7
+2.12
+2.12
+21.46
+37
+-"-
+600
+50
+50
+200
+300
+revaluation of resources of promising facilities in the Pryazovia region
+Ministry of Natural Resources and Environment
+state budget
+36.59
+1.24
+1.24
+12.52
+21.59
+increase in iron ore reserves and resources, million tons
+690
+50
+50
+240
+350
+exploration of Serhiivske, Novoukrainsk, Pivnichnyi-Tersiansk and Pavlivske deposits (Zaporizhzhia oblast)
+-"-
+-"-
+41.8
+1.41
+1.41
+14.31
+24.67
+-"-
+180
+20
+20
+60
+80
+conducting search and evaluation works (Lenin sections No.1, 2 and 3)
+-"-
+-"-
+15.67
+0.53
+0.53
+5.36
+9.25
+increase in manganese ore resources, million tons
+30
+2
+3
+5
+20
+assessment of manganese carbonate ore resources in the Inhul-Inhulets Interfluve
+-"-
+-"-
+31.35
+1.06
+1.06
+10.73
+18.5
+-"-
+10
+1
+2
+3
+4
+conducting searches within Kostroma section of Dnipropetrovsk oblast
+-"-
+-"-
+36.59
+1.24
+1.24
+12.52
+21.59
+increase in chromite ore reserves and resources, million tons
+11.4
+0.5
+0.5
+4.2
+6.2
+preparation for industrial development, approval of reserves of individual sections of Kapitanivska ore node
+-"-
+-"-
+52.24
+1.76
+1.76
+17.88
+30.84
+increase in chromite ore reserves and resources, million tons
+4.6
+0.4
+0.4
+1.2
+2.6
+prospecting assessment and exploration of Pushkivsk, North Lypovenke and Lipniahivsk deposits in the Middle Pobuzhzhia region.
+Ministry of Natural Resources and Environment
+state budget
+26.12
+0.88
+0.88
+8.94
+15.42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+355.3
+12
+12
+121.6
+209.69
+8. Building up the mineral resource base of non-ferrous and alloying metal ores
+increase of bauxite ore resources, million tons
+4.8
+0.5
+0.5
+1.2
+2.6
+search assessment of ore occurrences within paleodepressions in the Prydnistrovia
+-"-
+state budget
+7.81
+0.25
+0.26
+2.68
+4.62
+increase in copper ore reserves and resources, million tons
+6.8
+0.5
+0.6
+2
+3.7
+determination of industrial significance and preparation for exploration of promising sites, assessment of copper reserves and resources of Rafalivska ore node
+-"-
+-"-
+3.91
+0.13
+0.13
+1.34
+2.31
+-"-
+1.5
+0.1
+0.1
+0.5
+0.8
+copper deposit exploration within Volyn ore region
+-"-
+-"-
+46.89
+1.52
+1.59
+16.07
+27.71
+-"-
+1.2
+0.1
+0.1
+0.4
+0.6
+copper deposit exploration within Pivnichyi-Ratniv section
+-"-
+-"-
+23.43
+0.76
+0.79
+8.03
+13.85
+increase in copper ore resources, million tons
+0.9
+0.1
+0.1
+0.3
+0.4
+searches within promising ore occurrences of the Donbas (Bakhmut Basin) and green-stone structures (Dnipropetrovsk oblast)
+-"-
+-"-
+11.73
+0.38
+0.4
+4.02
+6.93
+estimation and increase of resources of nickel, cobalt, related platinoids, gold, as well as bauxite, talc, vermiculite, thousand tons
+650
+10
+20
+270
+350
+conducting geological and exploration work within the Dereniukhivka-Lypovenkivsk zone in the Middle Pobuzhzhia region
+Ministry of Natural Resources and Environment
+state budget
+27.33
+0.88
+0.92
+9.37
+16.16
+increase in reserves and resources of nickel, cobalt, related platinoids, gold, as well as bauxite, talc, vermiculite, thousand tons
+120
+4
+6
+50
+60
+preparation for industrial development, assessment of reserves and resources of industrial categories of Western Lashchivka and North Lypovenke deposits
+-"-
+-"-
+15.64
+0.51
+0.53
+5.36
+9.24
+increase in reserves and resources of copper-nickel sulfide ores, thousand tons
+200
+20
+20
+60
+100
+geological and economic assessment of the industrial significance of Prutivka deposit and determination of the feasibility of its exploration
+-"-
+-"-
+23.43
+0.76
+0.79
+8.03
+13.85
+increase in nickel, cobalt and copper resources, thousand tons
+1000
+50
+100
+400
+450
+conducting search and evaluation works within Oleksandrivka and Avdotiivka sections of Dnipropetrovsk oblast
+-"-
+-"-
+35.16
+1.14
+1.19
+12.05
+20.78
+assessment of prospective lead and zinc resources, thousand tons
+2400
+300
+300
+1000
+800
+conducting search and evaluation works within promising geological structures (Donbas, Carpathians, Dnipro-Donets Rift)
+Ministry of Natural Resources and Environment
+state budget
+46.89
+1.52
+1.59
+16.07
+27.71
+increase in lead and zinc reserves and resources, thousand tons
+2300
+200
+300
+500
+1300
+assessment of the industrial significance of Biliaivka and Novodmitrivsk deposits
+-"-
+-"-
+42.97
+1.39
+1.45
+14.73
+25.4
+increase in lead and zinc resources, thousand tons
+750
+
+
+
+
+300
+450
+conducting search and exploration operations within Komsomolsk ore node (Donetsk oblast)
+-"-
+-"-
+31.25
+1.01
+1.06
+10.71
+18.47
+increase in reserves and resources of placer complex zirconium-titanium ores, conventional units
+36.5
+10
+15
+5
+6.5
+preparation for the industrial development of facilities within Tarasivka-Tarashcha site
+-"-
+-"-
+19.52
+0.63
+0.66
+6.69
+11.54
+increase in titanium resources, conventional units
+36
+
+
+
+
+32
+4
+conducting search and exploration activities within Lykhivka site and Pokrovsk-Kyriivka structure (Dnipropetrovsk oblast)
+-"-
+-"-
+15.64
+0.51
+0.53
+5.36
+9.24
+increase in tin resources, thousand tons
+50
+
+
+
+
+20
+30
+conducting search and evaluation works within Perzhansk ore field
+-"-
+-"-
+19.52
+0.63
+0.66
+6.69
+11.54
+increase in molybdenum and tungsten resources, thousand tons
+295
+
+
+10
+185
+100
+conducting searches and evaluating ore occurrence resources within Kaplany, Ustynivka, Novoselivka and Serhiivske ore fields
+Ministry of Natural Resources and Environment
+state budget
+42.97
+1.39
+1.45
+14.73
+25.4
+-"-
+248.9
+
+
+12.5
+112
+124.4
+conducting search and evaluation works at prospective ore occurrences of Novoselivsk ore field, determining the industrial significance and feasibility of their exploration
+-"-
+-"-
+39.06
+1.26
+1.32
+13.39
+23.09
+increase in molybdenum resources, thousand tons
+487.9
+
+
+39.1
+200
+248.8
+preparation for industrial development, calculation of Verbyne deposit
+-"-
+-"-
+46.89
+1.52
+1.59
+16.07
+27.71
+-"-
+85
+10
+10
+10
+55
+conducting search and exploration operations within the eastern side of Kryvyi Rih-Kremenchuh suture zone
+-"-
+-"-
+31.25
+1.01
+1.06
+10.71
+18.47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+531.29
+17.20
+17.97
+182.1
+314.02
+9. Building up the mineral resource base of rare and rare-earth metal ores
+increase in reserves and resources of tantalum and niobium, conventional units
+58.5
+
+
+
+
+20
+38.5
+preparation for industrial development, calculation of Mazyrivka deposit
+-"-
+state budget
+44
+1.29
+1.49
+15.13
+26.09
+increase in tantalum resources, conventional units
+2
+
+
+
+
+0.5
+1.5
+resource assessment (Kopanka, Mostove, Vys, and others)
+-"-
+-"-
+6.28
+0.18
+0.21
+2.16
+3.73
+increase in lithium dioxide reserves and resources, thousand tons
+300
+
+
+50
+100
+150
+preparation for industrial development of Polokhivka deposit, assessment of the resources of Shevchenkove ore deposit
+Ministry of Natural Resources and Environment
+state budget
+62.88
+1.85
+2.13
+21.62
+37.28
+increase in reserves and resources of rare earths and related zirconium, conventional units
+30
+
+
+
+
+10
+20
+assessment and determination of the feasibility of exploration and pilot development, calculation of reserves and resources of the Azov deposit
+-"-
+-"-
+25.15
+0.74
+0.85
+8.65
+14.91
+growth of rare-earth resources, thousand tons
+27
+
+
+
+
+10
+17
+assessment of the resources of Anadol ore occurrence in Donetsk oblast and Khrystoforivka site in Dnipropetrovsk oblast
+-"-
+-"-
+18.86
+0.55
+0.64
+6.49
+11.18
+growth of rare metal resources, thousand tons
+56
+
+
+
+
+20
+36
+assessment of resources on the flanks of Shevchenkove ore field
+-"-
+-"-
+31.44
+0.92
+1.07
+10.81
+18.64
+growth of rare-earth resources, thousand tons
+487.9
+10
+20
+209.1
+248.8
+assessment of weathering crust resources in Sushchany-Perzhansk zone
+-"-
+-"-
+75.44
+2.21
+2.56
+25.94
+44.73
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+264.05
+7.74
+8.95
+90.8
+156.56
+10. Building up the mineral resource base of precious metal and diamond ores
+increase in gold resources, tons
+2740
+
+
+370
+1000
+1370
+assessment of resources of Verbliuzke, Kamianka, Krasnohirka, Kocherivka, Kompaniivka, Vilkhovatka-Volyntseve, Pivdennodonetsk and other sites (gold ore fields)
+Ministry of Natural Resources and Environment
+state budget
+115.84
+3.81
+3.92
+39.68
+68.43
+increase in reserves and resources of gold and related components, tons
+173
+10
+20
+100
+43
+assessment of reserves and resources of Andriivskyi, Sorokyne, Popelnaste, Zelenodolsk, Vilnyi Khutir, Haichyr, Kvitka, Orikhove, Kapustiany, Pivdennopolianytskyi ore occurrences and flanks of known deposits
+-"-
+-"-
+63.18
+2.08
+2.14
+21.64
+37.32
+increase in gold reserves and resources, tons
+500
+20
+20
+200
+260
+preparation for industrial development, calculation of reserves of Hubivka, Zakhidnoklyntsivsk deposit, flanks of Muzhievo, Berehove and Bobryk deposits
+-"-
+-"-
+94.78
+3.12
+3.2
+32.47
+55.99
+increase in silver resources and related components, tons
+1985
+
+
+100
+1000
+885
+assessment of Skhidnozhuravske deposits
+-"-
+-"-
+105.31
+3.47
+3.56
+36.07
+62.21
+increase in silver reserves and resources, tons
+3860
+
+
+130
+2000
+1730
+assessment of Skhidnozhuravske and Berezivka deposits
+Ministry of Natural Resources and Environment
+state budget
+94.78
+3.12
+3.2
+32.47
+55.99
+-"-
+1300
+
+
+
+
+700
+600
+preparation for industrial development, calculation of reserves of Zhuravske and Skhidnozhuravske deposits
+-"-
+-"-
+84.25
+2.77
+2.85
+28.86
+49.77
+increase in platinoid reserves and resources, tons
+85
+
+
+
+
+40
+45
+determination of the industrial significance of individual ore occurrences
+-"-
+-"-
+52.65
+1.73
+1.78
+18.04
+31.1
+increase in platinum reserves and resources, tons
+60
+
+
+
+
+25
+35
+preparation for the industrial development of a field (or complex field) and calculation of reserves
+-"-
+-"-
+73.71
+2.43
+2.49
+25.25
+43.54
+assessment of diamond resources, conventional units
+40
+
+
+
+
+10
+30
+conducting search and evaluation works within the Eastern Pryazovia region, the Volyn-Podillia plate and the Ukrainian Crystal Shield
+-"-
+-"-
+105.31
+3.47
+3.56
+36.07
+62.21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+789.81
+26
+26.7
+270.55
+466.56
+Total for Section 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state budget
+1940.45
+62.94
+65.62
+665.05
+1146.84
+3. Non-metallic minerals
+11. Building up the mineral resource base of non-metallic raw materials for metallurgy
+increase in reserves and resources of the hydrofluoric spar, million tons
+2.5
+
+
+
+
+1
+1.5
+preparation for industrial development, calculation of reserves of the flank of Bakhtyn deposit
+-"-
+-"-
+8.52
+0.28
+0.29
+2.92
+5.03
+0.6
+0.1
+0.1
+0.2
+0.2
+preparation for industrial development, calculation of reserves of the central section of Sushchany-Perzhansk zone
+Ministry of Natural Resources and Environment
+state budget
+2.13
+0.07
+0.07
+0.73
+1.26
+increase in fluorite reserves and resources, million tons
+2
+
+
+
+
+0.5
+1.5
+revaluation of Pokrovsk-Kyriivka deposit reserves (Donetsk oblast)
+-"-
+-"-
+6.39
+0.21
+0.22
+2.19
+3.77
+increase in reserves and resources of the hydrofluoric spar, million tons
+5
+
+
+
+
+2
+3
+assessment of industrial significance, calculation of reserves and prospective resources of rare-earth fluorspar in Sushchany-Perzhansk zone
+-"-
+-"-
+12.77
+0.42
+0.43
+4.38
+7.54
+increase in reserves and resources of flux dolomites, million tons
+2015
+
+
+
+
+1000
+1015
+preparation for industrial development, calculation of reserves of Stylsko deposit (western section)
+-"-
+-"-
+25.54
+0.84
+0.86
+8.75
+15.09
+increase in reserves and resources of flux limestones, million tons
+200
+
+
+10
+90
+100
+exploration of Rodnykivka, Olenivka (Balka Bezvodna section), Stylsko (western section) fields in Donetsk oblast
+-"-
+-"-
+23.41
+0.77
+0.79
+8.02
+13.83
+increase in bentonite clay reserves and resources, million tons
+94
+4
+5
+35
+50
+assessment of reserves and resources of the flanks of Cherkasy deposit with clays that are similar to Azerbaijan bentonites;
+-"-
+-"-
+19.16
+0.63
+0.65
+6.56
+11.32
+increase in bentonite clay reserves and resources, million tons
+35.5
+1.5
+2
+12
+20
+conducting search and evaluation works on promising areas in order to identify active reserves
+Ministry of Natural Resources and Environment
+state budget
+21.28
+0.7
+0.72
+7.29
+12.57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+119.21
+3.92
+4.03
+40.84
+70.41
+12. Building up the mineral resource base of refractory raw materials
+increase in secondary kaolin reserves and resources, million tons
+87
+
+
+
+
+30
+57
+preparation for industrial development, calculation of reserves of Volodymyrske deposit
+-"-
+state budget
+12.03
+0.4
+0.41
+4.12
+7.1
+-"-
+120
+
+
+
+
+60
+60
+assessment of the industrial significance of individual land plots, calculation of reserves at the sites of existing enterprises in Cherkasy, Kirovohrad and Donetsk oblasts
+-"-
+-"-
+12.03
+0.4
+0.41
+4.12
+7.1
+increase in magnesite reserves and resources, million tons
+50
+
+
+
+
+20
+30
+preparation for industrial development, calculation of field reserves in the Pobuzhzhia ore region
+-"-
+-"-
+9.35
+0.31
+0.32
+3.2
+5.52
+increase in reserves and resources of garnet-sillimanite ores and disten, million tons
+22
+
+
+
+
+10
+12
+preparation for industrial development, calculation of reserves of Solomiivka garnet-sillimanite ore deposit and Sushchany disten deposit
+-"-
+-"-
+8
+0.26
+0.27
+2.74
+4.73
+increase in reserves and resources of kaolins and refractory clays, million tons
+120
+
+
+
+
+60
+60
+preparation for industrial development of Volodymyrske and Polohy deposits (sections 1 and 2)
+-"-
+-"-
+10.68
+0.35
+0.36
+3.66
+6.31
+increase in refractory clay resources, million tons
+475
+
+
+
+
+425
+50
+study of promising sites in Poltava, Sumy and Kharkiv oblasts;
+Ministry of Natural Resources and Environment
+state budget
+13.35
+0.44
+0.45
+4.57
+7.89
+increase in reserves and resources of refractory clays, million tons
+620
+
+
+
+
+260
+360
+industrial assessment of individual sites and resources of Kalmius-Toretsk and Bakhmut basins
+-"-
+-"-
+16.02
+0.53
+0.54
+5.49
+9.46
+increase in reserves and resources of moulding sands, million tons
+620
+
+
+
+
+260
+360
+preparation for industrial development, calculation of reserves of Bantyshivka (eastern section) and Chasiv Yar (northern section) deposits
+
+
+
+
+14.69
+0.48
+0.5
+5.03
+8.68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+96.15
+3.17
+3.26
+32.93
+56.79
+13. Building up the mineral resource base of raw materials for mining, chemical and agro-industrial complexes
+increase in reserves and resources of phosphorous anhydrite, apatite and apatite-ilmenite ores, million tons
+43
+
+
+
+
+20
+23
+preparation for industrial development, calculation of phosphorous anhydrite reserves in Holoskiv and Vidybirzhske deposits of apatite and apatite-ilmenite ores
+-"-
+state budget
+25.78
+0.85
+0.87
+8.83
+15.23
+increase in reserves and resources of phosphorites, man-made deposits and phosphate-containing limestones, million tons
+47
+1
+2
+22
+22
+preparation for industrial development, calculation of reserves of Zhvan, Osykove, Krolevets, Kolky, Bilohirsk deposits, ore occurrences of Kryvolutsk synclinal fold
+-"-
+-"-
+28.66
+0.94
+0.97
+9.82
+16.93
+increase in phosphorite resources, million tons
+1.2
+
+
+
+
+0.7
+0.5
+search assessment of promising land plots in Kharkiv oblast
+Ministry of Natural Resources and Environment
+state budget
+8.59
+0.28
+0.29
+2.94
+5.08
+increase in apatite reserves and resources, million tons
+1.5
+
+
+
+
+0.5
+1
+exploration of Volodarsk apatite deposit, Donetsk oblast;
+-"-
+-"-
+17.2
+0.57
+0.58
+5.89
+10.16
+increase in potash salt reserves and resources, million tons
+460
+
+
+
+
+210
+250
+revaluation of reserves in terms of potassium oxide for priority development of the area of "Piilo" deposit
+-"-
+-"-
+31.53
+1.04
+1.07
+10.8
+18.62
+increase in potash salt resources, million tons
+490
+
+
+
+
+245
+245
+identification of areas with favorable mining and geological conditions, calculation of potassium oxide resources within the pre-Carpathian potassium-bearing basin
+-"-
+-"-
+34.38
+1.13
+1.16
+11.78
+20.31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+146.14
+4.81
+4.94
+50.06
+86.33
+14. Building up the mineral resource base of other non-metallic raw materials
+increase in glauconite reserves and resources, million tons
+70
+
+
+
+
+20
+50
+preparation for industrial development of deposits (the Autonomous Republic of Crimea, Vinnytsia, Khmelnytskyi, Chernivtsi and Luhansk oblasts), calculation of ore reserves and resources
+-"-
+state budget
+19.27
+0.61
+0.65
+6.61
+11.4
+increase in barite reserves and resources, million tons
+50
+
+
+
+
+23
+27
+determination of the industrial significance of ore occurrences and the feasibility of their exploration; calculation of reserves and resources of the flanks of Bihansk deposit
+-"-
+-"-
+12.85
+0.41
+0.43
+4.41
+7.6
+increase in graphite resources, million tons
+2
+
+
+
+
+0.5
+1.5
+resource assessment within Sachkynsko-Troitska perspective square of Donetsk oblast
+Ministry of Natural Resources and Environment
+state budget
+3.21
+0.1
+0.11
+1.1
+1.9
+increase in graphite reserves and resources, million tons
+440
+
+
+
+
+220
+220
+conducting search and exploration operations at the Sukhyi Tashlyk and Stavkove manifestations
+-"-
+-"-
+38.53
+1.22
+1.3
+13.22
+22.79
+increase in reserves and resources of quartzite and glass sand, million tons
+110
+
+
+
+
+90
+20
+assessment of resources and reserves within promising areas of Poltava and adjacent oblasts
+-"-
+-"-
+32.1
+1.01
+1.09
+11.01
+18.99
+increase in limestone reserves and resources for the sugar industry, million tons
+40
+
+
+
+
+20
+20
+search and exploration of deposits in Vinnytsia and Khmelnytskyi regions
+-"-
+-"-
+9.63
+0.3
+0.33
+3.3
+5.7
+increase in opoc reserves and resources, million tons
+110
+
+
+
+
+45
+65
+assessment of resources and reserves within promising areas of Kharkiv and Sumy oblasts
+-"-
+-"-
+32.1
+1.01
+1.09
+11.01
+18.99
+growth of amber resources, tons
+450
+4
+6
+200
+240
+conducting search operations within Klesiv, Dubrova and Barashivka zones and in the Volodymyrets district of Rivne oblast
+-"-
+-"-
+38.53
+1.22
+1.3
+13.22
+22.79
+increase in primary kaolin reserves and resources, million tons
+240
+
+
+
+
+160
+80
+conducting search and evaluation works on promising areas in the central part of the Ukrainian Crystal Shield
+-"-
+-"-
+35.33
+1.12
+1.2
+12.12
+20.89
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+221.55
+7
+7.5
+76
+131.05
+15. Building up the mineral resource base of man-made raw materials
+increase in reserves and resources of man-made raw materials, million tons
+32
+2
+3
+12
+15
+geological and economic assessment of technogenic accumulations
+Ministry of Natural Resources and Environment
+state budget
+23.07
+0.76
+0.78
+7.9
+13.63
+Total for Section 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state budget
+606.11
+19.66
+20.51
+207.73
+358.21
+4. Geological and ecological-geological studies of the territory of Ukraine in order to increase the mineral resource base
+16. Geological study of the territory of Ukraine
+study area, thousand square kilometres
+781.4
+39.5
+46
+271.3
+424.6
+geological study of areas on a scale of 1:200000
+-"-
+-"-
+920.88
+30.88
+31.11
+315.26
+543.63
+-"-
+50.4
+2
+3
+18
+27.4
+geological and forecast mapping on a scale of 1:200000
+-"-
+-"-
+383.69
+12.86
+12.96
+131.36
+226.51
+-"-
+22.9
+1
+1.5
+8
+12.4
+geological survey in the scale of 1:50000
+-"-
+-"-
+153.48
+5.15
+5.19
+52.54
+90.6
+-"-
+228.9
+12
+13
+79.5
+124.4
+preparation of geophysical bases for geological surveys on a scale of 1:50000 and 1:200000
+-"-
+-"-
+613.91
+20.58
+20.74
+210.17
+362.42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+2071.96
+69.47
+70
+709.33
+1223.16
+17. Conducting hydrogeological, engineering-geological and ecological-geological works
+drilling, wells
+2040
+100
+120
+800
+1020
+drilling of artesian wells for drinking water supply
+-"-
+state budget
+1238.96
+40.12
+42.04
+424.54
+723.26
+hydrogeological and engineering-geological mapping:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+study area, thousand square kilometres
+18.3
+
+
+
+
+9.1
+9.2
+in 1:50000 scale
+-"-
+-"-
+94.02
+3.03
+3.18
+32.23
+55.58
+-"-
+162.9
+11
+9
+60.6
+82.3
+in 1:200000 scale
+-"-
+-"-
+253.61
+8.00
+8.44
+87.13
+150.04
+increase in components of the hydrogeological network, objects
+14
+
+
+
+
+7
+7
+search and exploration of drinking, industrial, fresh, mineral, heat and power and industrial underground waters
+Ministry of Natural Resources and Environment
+state budget
+564.12
+18.18
+19.08
+193.39
+333.47
+study area, thousand square kilometres
+34.6
+1.3
+1.5
+14.5
+17.3
+geological and engineering-geological mapping on a scale of 1:200000 with geological and ecological studies of the Black Sea shelf
+-"-
+-"-
+58.77
+1.89
+1.99
+20.15
+34.74
+observation points, thousand per year
+4
+1
+1
+1
+1
+monitoring of groundwater at the state level
+-"-
+-"-
+94.02
+3.03
+3.18
+32.23
+55.58
+observation points, land plots per year
+900
+210
+210
+230
+250
+conducting engineering and geological works to monitor exogenous processes
+-"-
+-"-
+376.09
+12.12
+12.72
+128.93
+222.32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+2679.59
+86.37
+90.63
+918.6
+1583.99
+18. conducting geological exploration on the continental shelf of the Sea of Azov and Black Sea and within the exclusive (maritime) economic zone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-"-
+state budget
+256.88
+8
+8.7
+88.16
+152.02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+256.88
+8
+8.7
+88.16
+152.02
+Total for Section 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state budget
+4751.57
+155.83
+160.65
+1627.93
+2807.16
+5. Other research of the territory of Ukraine, support and support of works aimed at the development of the mineral resource base
+19. Conducting special types of research aimed at developing the mineral resource base
+polygons, quantity
+90
+17
+18
+25
+30
+deep subsurface exploration
+Ministry of Natural Resources and Environment
+state budget
+52.82
+1.61
+1.79
+18.14
+31.28
+geotravers, kilometres
+4400
+200
+200
+2000
+2000
+conducting geophysical research
+-"-
+-"-
+177.32
+5.39
+6.01
+60.9
+105.02
+20. Preparation and publication of methodological materials on the development of the mineral resource base
+printed materials, publications
+220
+10
+15
+75
+120
+publication of methodological recommendations for the search and exploration of mineral deposits and summary materials of scientific and technical conferences, meetings, etc.
+-"-
+-"-
+135.43
+4.36
+4.58
+46.43
+80.06
+printed materials, map sets
+195
+7
+8
+80
+100
+preparation and publication of State Geological Map-200 and State Geological Map-50, and other consolidated maps
+-"-
+-"-
+112.87
+3.64
+3.82
+38.69
+66.72
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+248.3
+8
+8.4
+85.12
+146.78
+21. Scientific, methodological and technical support of works aimed at the development of the mineral resource base
+
+
+
+
+
+
+
+
+
+
+
+
+conducting research projects
+-"-
+state budget
+1004.64
+32
+34
+344.54
+594.11
+methodological support and support of subsurface use works
+-"-
+-"-
+722.56
+23.12
+24.45
+247.76
+427.23
+Total for Section 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state budget
+2205.64
+70.12
+74.65
+756.46
+1304.42
+Total for the Programme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+189,053.99
+6022.00
+6398.12
+64,834.66
+111,799.21
+including
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+state budget
+26,119.13
+847.00
+883.42
+8,952.04
+15,436.67
+other sources
+162,934.86
+5175.00
+5514.70
+55,882.62
+96,362.54

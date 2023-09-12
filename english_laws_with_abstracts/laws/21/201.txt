@@ -1,0 +1,1 @@
+1) surname, given name and patronymic and position of a person responsible for consideration of the request by the information administrator;

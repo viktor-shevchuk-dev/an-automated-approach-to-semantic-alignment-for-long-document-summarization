@@ -1,0 +1,1 @@
+the list of components (materials) used by the executor, as well as given by the customer to the executor for performance of works of maintenance and repair of vehicles;

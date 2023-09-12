@@ -1,0 +1,1 @@
+3. The city planning documentation shall be elaborated in hard copy and electronic media on an up-to-date digital cartographic basis as profile geospatial data sets in the state geodetic coordinate system of the USK-2000 and the unified classification and coding system for construction objects for the formation of city planning databases.

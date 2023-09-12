@@ -1,0 +1,1 @@
+3601, 3602; 3603 (only for percussion capsules, detonators used for defence purposes), 3604 90 00 00 (only for lighting and emergency flares used for defence purposes);

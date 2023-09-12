@@ -1,0 +1,1 @@
+migration of aquaculture objects, creation of artificial bottom landscapes in order to improve the ecological state of the water object and conditions of natural reproduction of aquatic bioresources;

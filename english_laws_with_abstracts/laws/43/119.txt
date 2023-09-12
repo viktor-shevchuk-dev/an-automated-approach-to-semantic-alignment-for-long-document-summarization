@@ -1,0 +1,1 @@
+name of the registration authority, surname, name, patronymic and position of the person who made entries in the register.

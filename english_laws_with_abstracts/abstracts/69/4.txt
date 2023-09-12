@@ -1,0 +1,3 @@
+district, oblast, Kyiv and Sevastopol city state administrations, the Council of Ministers of Autonomous Republic of Crimea and the Cabinet of Ministers of Ukraine;
+village, settlement, city councils and oblast councils, the Supreme Council of Autonomous Republic of Crimea;
+citizens and legal entities of Ukraine, foreigners and stateless persons, foreign legal entities, international associations of citizens and organizations, as well as foreign states.

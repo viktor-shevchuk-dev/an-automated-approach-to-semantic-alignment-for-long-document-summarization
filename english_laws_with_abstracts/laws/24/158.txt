@@ -1,0 +1,1 @@
+Key spending units determine the network of lower-level budget managers and budget recipients, taking into account the requirements for the formation of a single register of budget managers and budget recipients and the data of such a register.

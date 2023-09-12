@@ -1,0 +1,4 @@
+procedure for serving notification of the ship being ready for hauling operations;
+procedure for calculating lay time, unless it is established by agreement of the parties;
+list of services provided in the sea port;
+other rules for carrying out business operations within the sea port.

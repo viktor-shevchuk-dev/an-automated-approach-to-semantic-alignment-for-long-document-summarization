@@ -1,0 +1,1 @@
+Services for transportation of passengers by buses can be provided by types of modes of transportation organisation: regular, regular special, irregular.

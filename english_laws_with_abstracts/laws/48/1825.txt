@@ -1,0 +1,1 @@
+8. Should a consumer have its own power source and supply energy to the supplier’s power network, calculations shall be allowed based on the balance of mutually received power.

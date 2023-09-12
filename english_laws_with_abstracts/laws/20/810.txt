@@ -1,0 +1,1 @@
+the characteristics of the possible consequences of a failure (the state of the object at which it is impossible to use it or its component part for functional purposes) of which exceed:

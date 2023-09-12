@@ -1,0 +1,1 @@
+7. If a completed construction object is divided or accessed, the identifier of the construction object shall be cancelled. A new identifier of the completed construction object shall be assigned to the objects created by their division or accession, which must contain a reference to the identifier (identifiers) of the object (objects) of which such objects originated.

@@ -1,0 +1,1 @@
+Grain production entities shall include land plot owners, tenants and users that use such land plots for grain production.

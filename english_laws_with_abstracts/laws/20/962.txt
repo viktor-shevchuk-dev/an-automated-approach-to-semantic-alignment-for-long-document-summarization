@@ -1,0 +1,1 @@
+7. The state architecture and construction control body shall refuse to issue a certificate on the following grounds:

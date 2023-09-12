@@ -1,0 +1,1 @@
+Grain storage entities shall include: grain storage facilities (grain hoppers, grain depots, grain reception enterprises, mills and compound feed mills), grain production entities that store grain in their own or leased granaries, and other business entities that participate in the grain storage process.

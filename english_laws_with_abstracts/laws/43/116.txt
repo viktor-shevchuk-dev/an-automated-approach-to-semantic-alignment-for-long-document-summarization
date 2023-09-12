@@ -1,0 +1,1 @@
+surname, first name and patronymic of the representative, if they act on behalf of the person, and information about the document certifying the authority of the representative;

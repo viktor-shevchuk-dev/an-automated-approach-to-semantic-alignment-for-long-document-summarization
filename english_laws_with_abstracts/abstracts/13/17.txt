@@ -1,0 +1,3 @@
+ad valorem rate – in percents of the taxable base;
+specific rate – in monetary terms per unit of the taxable base;
+combined rate, which consists of the ad valorem and the specific duty rates.

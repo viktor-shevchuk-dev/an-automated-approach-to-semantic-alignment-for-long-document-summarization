@@ -1,0 +1,1 @@
+3) if the price of products is lower than its regular price.

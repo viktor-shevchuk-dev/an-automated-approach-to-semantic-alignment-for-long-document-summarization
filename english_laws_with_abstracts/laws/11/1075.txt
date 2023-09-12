@@ -1,0 +1,1 @@
+4. Where a period is calculated in months, it shall end on the corresponding day of the last month. Where the deadline of a period is calculated in months falls on the month which does not have the corresponding date, the period shall end on the last day of this month.

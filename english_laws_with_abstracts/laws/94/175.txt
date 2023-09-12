@@ -1,0 +1,1 @@
+2. An application shall relate to one variety only.

@@ -1,0 +1,1 @@
+taking into account the passenger traffic when determining the number of rolling stock operating on routes (lines) and drawing up a timetable for the relevant time of day;

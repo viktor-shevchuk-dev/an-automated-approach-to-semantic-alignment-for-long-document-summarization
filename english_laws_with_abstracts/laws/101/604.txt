@@ -1,0 +1,1 @@
+Payment in the specified amount is made for the hours actually worked on holidays and days off.

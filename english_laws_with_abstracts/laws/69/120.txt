@@ -1,0 +1,1 @@
+list of hydraulic structures, linear structures, bridge crossings, as well as other infrastructure objects located on the land plot (if any), their characteristics and condition;

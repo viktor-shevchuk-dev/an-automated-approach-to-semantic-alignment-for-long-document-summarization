@@ -1,0 +1,1 @@
+If the price offered by the participant exceeds the price announced by the auctioneer, the participant shall announce the participant's number and their offer.

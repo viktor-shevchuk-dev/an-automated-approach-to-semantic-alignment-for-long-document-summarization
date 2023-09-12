@@ -1,0 +1,1 @@
+heat-generating and heat supply entities that produce or supply thermal energy for the needs of consumers in volumes not exceeding 18 thousand Gcal per year;

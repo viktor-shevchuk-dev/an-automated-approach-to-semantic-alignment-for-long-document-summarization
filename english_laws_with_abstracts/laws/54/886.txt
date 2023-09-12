@@ -1,0 +1,1 @@
+2. Each of the neighbours may demand to remove the trees standing on the common boundary. The costs related to the removal of these trees shall be borne by the neighbours in equal parts.

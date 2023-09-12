@@ -1,0 +1,1 @@
+4) surname, first name, patronymic, year of birth of an individual, or a title of legal entity, data on their place of residence (stay) or place of business, as well as other data, required for the enforcement of instruction;

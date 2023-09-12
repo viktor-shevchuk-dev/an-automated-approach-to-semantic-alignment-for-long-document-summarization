@@ -1,0 +1,1 @@
+water monitoring is a system for observing, collecting, processing, storing and analysing information about the state of water bodies, predicting its changes and developing scientifically grounded recommendations for making appropriate decisions;

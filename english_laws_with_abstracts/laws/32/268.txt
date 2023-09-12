@@ -1,0 +1,1 @@
+receive recalculation for the consumed thermal energy taking into account the advance payment and the readings of the thermal energy metering units within a month after the end of the heating period.

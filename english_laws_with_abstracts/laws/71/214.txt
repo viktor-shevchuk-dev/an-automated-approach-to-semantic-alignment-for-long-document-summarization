@@ -1,0 +1,1 @@
+information on a previous measure (measure type and term). The certificate (assignment) shall be valid only for the term of the measure specified therein.

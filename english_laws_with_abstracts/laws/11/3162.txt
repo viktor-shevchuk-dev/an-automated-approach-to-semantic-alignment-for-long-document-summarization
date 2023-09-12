@@ -1,0 +1,1 @@
+last name, first name and patronymic of the suspect or accused, year, month and date of his/her birth, place of birth and place of residence;

@@ -1,0 +1,1 @@
+3. Сargo transportation shall be conducted by rail cargo transport, road cargo transport, sea cargo transport and domestic cargo fleet, air cargo transport, pipeline transport, space transport, other types of transport.

@@ -1,0 +1,1 @@
+clause “b” shall be removed;

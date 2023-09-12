@@ -1,0 +1,1 @@
+composite product is a product consisting of several elements that can be replaced in such a way that it is possible to disassemble and then assemble the product;

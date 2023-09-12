@@ -1,0 +1,1 @@
+1) Take a decision to change the address/not to change the address, which should contain the identifier of the completed construction object (for objects to which the identifier was assigned prior to the submission of an application)

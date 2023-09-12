@@ -1,0 +1,1 @@
+keep a set of design documentation on which the architectural work has been built, and the passport of the work, and transfer this documentation to the new owner.

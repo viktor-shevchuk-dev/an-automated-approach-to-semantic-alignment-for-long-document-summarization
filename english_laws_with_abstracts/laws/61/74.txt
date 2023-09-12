@@ -1,0 +1,1 @@
+reimburse damage for loss, damage, delay in transportation of dangerous cargo.

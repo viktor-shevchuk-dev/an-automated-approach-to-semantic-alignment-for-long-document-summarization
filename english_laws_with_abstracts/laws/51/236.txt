@@ -1,0 +1,1 @@
+Grain storage facilities shall maintain a register of warehouse documents for grain.

@@ -1,0 +1,1 @@
+“closed water object is a natural or artificially created water reservoir which is not connected with the other water objects (except aquifers)”;
