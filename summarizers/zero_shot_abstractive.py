@@ -7,9 +7,25 @@ from transformers import pipeline, AutoTokenizer, set_seed
 from helpers import *
 
 
+# set_seed(1)
+# gpt2_model_name = "gpt2-xl"
+# summarizer = pipeline("text-generation", model=gpt2_model_name, max_new_tokens=64)
+# gpt2_query = "summarize:\n"+ sample_text
+# pipe_out = summarizer(gpt2_query, clean_up_tokenization_spaces=True)
+# test3 = sent_tokenize(pipe_out[0]["generated_text"][len(gpt2_query) :])
+# test3
+
+
 def summarize_para(para, summarizer):
     try:
-        summarized_para = summarizer(para, max_length=256)[0]["summary_text"]
+        if summarizer.task == 'text-generation':
+            gpt2_query = "summarize:\n" + para
+            summarized_para = summarizer(
+                gpt2_query, clean_up_tokenization_spaces=True)[0]['generated_text'][len(gpt2_query):]
+        else:
+            summarized_para = summarizer(para, max_length=256)[
+                0]["summary_text"]
+
         return summarized_para
     except:
         print("An error occurred, chunk text trying to summarize: ", para)
@@ -35,12 +51,12 @@ def summarize_long_para(para, para_length, tokenizer, summarizer, max_token_numb
     summarized_para_length = len(tokenizer.tokenize(summarized_long_para))
 
     if summarized_para_length > max_token_number:
-        return summarize_long_para(summarized_long_para, para_length, tokenizer, summarizer, max_token_number)
+        return summarize_long_para(summarized_long_para, summarized_para_length, tokenizer, summarizer, max_token_number)
 
     return summarized_long_para
 
 
-def summarize_with_contextual_method(tokenizer, summarizer, max_token_number, para_list):
+def summarize_abstractively(tokenizer, summarizer, max_token_number, para_list):
     chunk = []
     summarized = []
 
@@ -78,32 +94,32 @@ def summarize_with_contextual_method(tokenizer, summarizer, max_token_number, pa
     return summarized_law_text
 
 
-def summarize_abstractively(tokenizer, summarizer, max_token_number, para_list, chunking_method):
-    if chunking_method == "contextual":
-        return summarize_with_contextual_method(tokenizer, summarizer, max_token_number, para_list)
-
-
-def save_abstractive_summaries(model_name, max_token_number, chunking_method):
+def save_abstractive_summaries(model_name, max_token_number, max_new_tokens):
     path = os.path
     storage_directory = path.join(path.curdir, "english_laws_with_abstracts")
 
-    chunking_method_folder = path.join(
-        storage_directory, "summarized", "zero_shot_abstractive", chunking_method)
+    method_folder = path.join(
+        storage_directory, "summarized", "zero_shot_abstractive")
 
-    create_folder_if_not_exists(chunking_method_folder)
+    create_folder_if_not_exists(method_folder)
 
-    model_folder = model_name.replace('/', '_').replace('-', '_')
-    summarized_method_folder = path.join(chunking_method_folder, model_folder)
+    model_folder_mame = model_name.replace('/', '_').replace('-', '_')
+    summarized_method_folder = path.join(method_folder, model_folder_mame)
 
     create_folder_if_not_exists(summarized_method_folder)
 
     laws_folder = path.join(storage_directory, "laws")
     laws_listed = os.listdir(laws_folder)
 
-    tokenizer = AutoTokenizer.from_pretrained(
-        model_name, model_max_length=max_token_number)
-    summarizer = pipeline(
-        "summarization", model=model_name, tokenizer=tokenizer)
+    if model_name == 'gpt2-xl':
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        summarizer = pipeline("text-generation", model=model_name,
+                              max_new_tokens=max_new_tokens, tokenizer=tokenizer)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(
+            model_name, model_max_length=max_token_number)
+        summarizer = pipeline(
+            "summarization", model=model_name, tokenizer=tokenizer)
 
     for index, _ in enumerate(laws_listed):
         start_index = get_next_index(
@@ -127,7 +143,7 @@ def save_abstractive_summaries(model_name, max_token_number, chunking_method):
                 para_list.append(para_text)
 
         summarized_text = summarize_abstractively(
-            tokenizer, summarizer, max_token_number - 2, para_list, chunking_method)
+            tokenizer, summarizer, max_token_number - 2, para_list)
 
         with open(summarized_law_file, 'w') as f:
             f.write(summarized_text)
