@@ -1,0 +1,1 @@
+Budget reporting reflects the state of budget execution, contains information in terms of budget classification.

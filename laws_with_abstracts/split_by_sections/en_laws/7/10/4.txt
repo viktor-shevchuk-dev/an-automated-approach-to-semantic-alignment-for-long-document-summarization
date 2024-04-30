@@ -1,0 +1,1 @@
+2) Type of corporate fund (open, interval, closed)

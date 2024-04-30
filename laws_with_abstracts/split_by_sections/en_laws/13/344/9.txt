@@ -1,0 +1,1 @@
+g) gross weight of goods (in kilograms) or volume of goods (in cubic meters), except bulk goods;

@@ -1,0 +1,1 @@
+The state record of registered vehicles includes the process of registration, accumulation, generalisation, storage and transmission of information about registered vehicles and their owners.

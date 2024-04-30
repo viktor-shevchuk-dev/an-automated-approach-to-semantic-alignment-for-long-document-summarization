@@ -1,0 +1,1 @@
+passport of taxi parking is a document containing the information about the instrumentalities of parking arrangement, information support for passengers, the owner of the parking, traffic diagram and rules for output of services;

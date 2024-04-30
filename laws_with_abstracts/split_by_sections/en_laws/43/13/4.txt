@@ -1,0 +1,1 @@
+Registers shall be accessed solely upon authorisation, with the preservation of information about the officer or official who made the request, and the time of such a request.

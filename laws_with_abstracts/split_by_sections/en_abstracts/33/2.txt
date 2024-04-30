@@ -1,0 +1,5 @@
+orographic – continents, mountains, mountain ranges, rocks and cliffs, canyons, glaciers, plains, hollows, ravines, gullies, islands, spits, volcanoes, caves, and so on;
+hydrographic – oceans, seas, gulfs and bays, straits and channels, firths, lakes, bogs and marshes, water-storage reservoirs, rivers, canals, and so on;
+administrative and territorial – states, autonomous territories, oblasts, regions, districts, cities and towns, settlements, villages, and so on;
+socio-economic – railways stations, passing tracks, ports, quays and wharfs, airports, and so on;
+natural and reserved – natural parks, nature reserves, special nature reserves, reserved tracts, and other similar objects.

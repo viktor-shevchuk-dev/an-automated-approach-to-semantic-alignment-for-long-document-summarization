@@ -1,0 +1,1 @@
+surname, name and patronymic of other persons who took part in the measure conduct.

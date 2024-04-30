@@ -1,0 +1,1 @@
+4. An abstract shall be generated based on the results of a registration action.

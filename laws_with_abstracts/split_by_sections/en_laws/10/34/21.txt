@@ -1,0 +1,1 @@
+in Part 1, the words “nearest seaport” shall be replaced with the words “seaport harbour master of the nearest seaport”;

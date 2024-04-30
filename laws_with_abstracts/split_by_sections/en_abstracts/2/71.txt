@@ -1,0 +1,3 @@
+lectures;
+laboratory, practical, discussion-based, individual work;
+consultations.

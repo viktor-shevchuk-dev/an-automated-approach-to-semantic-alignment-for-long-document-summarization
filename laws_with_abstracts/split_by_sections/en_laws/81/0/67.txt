@@ -1,0 +1,1 @@
+sub-basin is a part of a river basin where water flows through connected reservoirs and watercourses to the main river of the basin or a water management area downstream;

@@ -1,0 +1,1 @@
+Radioactive waste repository is a structure for storage or disposal of radioactive waste with a mandatory provision of engineering, geological, physical and other barriers that prevent the migration of radionuclides;

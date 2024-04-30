@@ -1,0 +1,1 @@
+If the settlement rate, taking into account the borrowed funds, exceeds the maximum value of the tariff set in the relevant territory, then after the expiration of the payback period, the tariff shall be reduced to the level of the maximum value.

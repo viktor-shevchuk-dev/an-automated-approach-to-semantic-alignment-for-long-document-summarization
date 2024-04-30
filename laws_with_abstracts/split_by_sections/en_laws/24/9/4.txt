@@ -1,0 +1,1 @@
+3) functions related to the implementation of expenditures and budget lending (functional classification of expenditures and budget lending).

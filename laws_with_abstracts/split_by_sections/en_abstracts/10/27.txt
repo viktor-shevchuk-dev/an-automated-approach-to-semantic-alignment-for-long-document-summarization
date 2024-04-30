@@ -1,0 +1,7 @@
+tonnage dues;
+docking dues;
+anchorage dues;
+channel dues;
+beacon dues;
+administrative dues;
+sanitary dues.

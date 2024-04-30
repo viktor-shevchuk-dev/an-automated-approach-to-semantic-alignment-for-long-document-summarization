@@ -1,0 +1,1 @@
+16) surname, name, patronymic, position of a person who entered the information into this register, as well as the date and time of entering the information into this register, the grounds for entering the information.

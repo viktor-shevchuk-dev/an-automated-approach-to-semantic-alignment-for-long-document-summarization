@@ -1,0 +1,1 @@
+10) Number of the apartment, garage box, parking place, other residential and non-residential premise, which is an independent immovable property object (if any).

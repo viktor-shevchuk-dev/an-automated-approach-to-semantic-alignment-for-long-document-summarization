@@ -1,0 +1,1 @@
+Relations between enterprises of different transport type during transportation of passengers, cargo, baggage, mail, are determined by codes (chargers) of certain transport type as well as agreements concluded on their basis (nodal agreements).

@@ -1,0 +1,1 @@
+If the grain storage facility accepts grain for storage without issuing a simple or double warehouse certificate, it must issue a warehouse receipt to confirm the grain acceptance for storage.

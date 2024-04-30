@@ -1,0 +1,5 @@
+enterprises;
+institutions;
+organizations;
+other legal entities (including foreign entities);
+citizens - subjects of entrepreneurial activity (hereinafter enterprises and organizations).

@@ -1,0 +1,1 @@
+2. Where a period is calculated in hours, it shall end in the corresponding minute of the last hour.

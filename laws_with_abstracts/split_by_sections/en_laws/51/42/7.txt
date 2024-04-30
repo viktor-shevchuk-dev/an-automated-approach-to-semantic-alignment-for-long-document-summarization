@@ -1,0 +1,1 @@
+if the value of grain according to warehouse documents for grain is less than 100 hryvnias;

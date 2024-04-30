@@ -1,0 +1,1 @@
+unit of transport work – mileage of one unit of rolling stock of municipal electric transport with passengers for a distance of one kilometre (car-kilometre or trolleybus-kilometre);

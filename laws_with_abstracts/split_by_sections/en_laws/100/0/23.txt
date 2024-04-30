@@ -1,0 +1,1 @@
+export (import) quota – maximum volume of a certain goods category allowed to be exported from the territory of Ukraine (imported into the territory of Ukraine) within a specified period and determined in physical or monetary units;

@@ -1,0 +1,1 @@
+On the date information on the commencement of the construction works is entered in the Register of Construction Activities, the electronic system software shall automatically transmit to the address assigning body a notification about the need to assign address to the object of new construction.

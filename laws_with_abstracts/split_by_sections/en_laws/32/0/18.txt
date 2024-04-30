@@ -1,0 +1,1 @@
+tariff (price) for heat energy is the monetary value of costs for production, transportation, supply of a unit of thermal energy (1 Gcal), taking into account the production profitability, investment and other components determined according to the methods developed by the National Energy and Utilities Regulatory Commission;

@@ -1,0 +1,1 @@
+6) generation, according to a certain algorithm, of a digital code of the model charter, which allows identifying by automatic means the version of the model charter under which the legal entity operates (if the model charter is multi-version);

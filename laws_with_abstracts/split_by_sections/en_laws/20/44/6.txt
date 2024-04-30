@@ -1,0 +1,1 @@
+If an adjustment of the design documentation may affect the assignment of the address of the new construction object (change of location of the object , main entrance, etc.), the notice shall specify the need to adjust (change, assign, cancel) the address.

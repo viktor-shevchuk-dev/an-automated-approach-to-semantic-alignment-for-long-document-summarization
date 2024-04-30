@@ -1,0 +1,1 @@
+4) Voting options for each draft resolution ("In favour", "Against", "Abstained")

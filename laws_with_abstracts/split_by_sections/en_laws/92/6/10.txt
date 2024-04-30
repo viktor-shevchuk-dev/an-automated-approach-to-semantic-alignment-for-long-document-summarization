@@ -1,0 +1,1 @@
+implementing an automated system for monitoring the payment of the cost of parking services within the relevant settlement, approving technical requirements and tasks for this system;

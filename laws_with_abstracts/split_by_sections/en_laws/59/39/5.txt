@@ -1,0 +1,1 @@
+do not give luggage if the passenger has not presented a ticket.

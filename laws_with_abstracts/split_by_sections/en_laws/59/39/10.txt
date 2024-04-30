@@ -1,0 +1,1 @@
+accept, place and give the luggage to passengers at the stops, provided by the schedule;

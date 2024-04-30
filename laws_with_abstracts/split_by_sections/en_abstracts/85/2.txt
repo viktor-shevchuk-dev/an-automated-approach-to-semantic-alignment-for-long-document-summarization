@@ -1,0 +1,5 @@
+public transport (railway, sea, river, automobile and aircraft as well as city electric transport and underground);
+industrial railway transport;
+departmental transport;
+pipe transport;
+public communications.

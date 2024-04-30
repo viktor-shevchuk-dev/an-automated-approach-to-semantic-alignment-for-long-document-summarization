@@ -1,0 +1,1 @@
+2) determine the possible number of persons who may be present in the courtroom, taking into account the number of seats and ensuring discipline during the court hearing;

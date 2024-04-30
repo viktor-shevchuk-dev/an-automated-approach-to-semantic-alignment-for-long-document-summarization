@@ -1,0 +1,1 @@
+3. The seventh, eighth, ninth and tenth digits of the numeric code are used for a more detailed product classification.

@@ -1,0 +1,1 @@
+1) A name of a construction object, which is to reflect a type of construction and the location of an object;

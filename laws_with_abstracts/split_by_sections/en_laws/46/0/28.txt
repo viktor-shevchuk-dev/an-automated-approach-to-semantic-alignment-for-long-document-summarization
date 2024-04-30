@@ -1,0 +1,1 @@
+central database shall mean a set of hardware and software in the databases and the auction module, which provide the possibility of conducting the auction in electronic form and guarantee equal access to information for auction participants in electronic form”;

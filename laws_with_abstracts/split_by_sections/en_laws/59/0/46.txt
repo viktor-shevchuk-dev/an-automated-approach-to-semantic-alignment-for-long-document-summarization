@@ -1,0 +1,1 @@
+return travel is the movement of the bus from the initial to the final stop of the route and in the opposite direction to the initial stop;

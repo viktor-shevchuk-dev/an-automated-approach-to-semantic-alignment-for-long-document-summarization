@@ -1,0 +1,1 @@
+3) case number, surname and initials of the judge (judges), if the statement (petition, objection) is submitted after the resolution on the opening of proceedings in the case;

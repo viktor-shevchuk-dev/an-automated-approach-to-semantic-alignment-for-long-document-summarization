@@ -1,0 +1,1 @@
+2. A certificate shall be terminated in case the fee for extending its validity period is not paid. A request for extending the certificate's validity period and fee for each extension of its validity period shall be received by NIPO by the end of the current certificate's validity period, provided that the fee is paid within the last six months of this period.

@@ -1,0 +1,1 @@
+8. The land auction executor shall accept documents from participants that are individuals and representatives of participants that are legal entities.

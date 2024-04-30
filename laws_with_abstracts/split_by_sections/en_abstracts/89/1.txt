@@ -1,0 +1,3 @@
+product (device, substance, culture of a microorganism, culture of cells of plants and animals, etc);
+process (method);
+new application of the already known product or process.

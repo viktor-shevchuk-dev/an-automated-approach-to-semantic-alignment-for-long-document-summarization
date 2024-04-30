@@ -1,0 +1,1 @@
+prevent a travel of a passenger who does not have a ticket, violates public order in the cabin of the bus, pollutes it, passengers or their things;

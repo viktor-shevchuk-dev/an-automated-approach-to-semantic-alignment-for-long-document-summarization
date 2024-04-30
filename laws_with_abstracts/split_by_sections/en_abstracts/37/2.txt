@@ -1,0 +1,1 @@
+- regularity (reliability) of transportations on routes (lines), which envisages preventing unscheduled internals in traffic and resuming transportations in case of such intervals;

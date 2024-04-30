@@ -1,0 +1,1 @@
+passport of the route is a document containing a route diagram, schedule, fare table, schedules for the working and rest modes of drivers, etc;

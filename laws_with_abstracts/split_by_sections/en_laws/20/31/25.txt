@@ -1,0 +1,1 @@
+8) Design documentation for the construction object and the results of its expertise (for the objects to which the identifier of the construction object is assigned prior the elaboration of the design documentation);

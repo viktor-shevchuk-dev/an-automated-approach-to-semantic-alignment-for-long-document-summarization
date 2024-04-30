@@ -1,0 +1,1 @@
+Changes to an independent clause of the formula may be made by modifying the features of such a clause in the formula or by adding features to it. In this case, only the features present in the dependent clauses of the formula subordinate to such an independent clause may be entered.

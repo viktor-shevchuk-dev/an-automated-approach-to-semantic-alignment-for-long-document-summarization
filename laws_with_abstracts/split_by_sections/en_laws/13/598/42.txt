@@ -1,0 +1,68 @@
+d) Commodity Code per UKT ZED
+Commodity description
+3211 00 00
+Ready driers
+3212 90 31 00,
+3212 90 38 00
+Pigments (including metal powders and flakes dispersed in a non-aqueous medium in the form of a liquid, paste or slurry, of a kind used for the manufacture of printing inks (including enamels)
+3215 11 00 00
+Black printing ink
+3215 19 00 00
+Print ink, except black
+3505 10 50 00,
+3505 10 90 00
+Modified starches used in the paper industry
+3701 30 00 00
+Only plates (aluminium) with a sensitized (light-sensitive) layer and plates, photopolymerisable suitable for the manufacture of printing plates in printing, the length of any side of which exceeds 255 mm; plates (magnesium) with a sensitized (light-sensitive) layer applied to them for the manufacture of embossing dies in printing, the length of any side of which exceeds 255 mm; flat film (sheet) for the manufacture of photoforms in printing, the length of any side of which exceeds 255 mm
+3702 42 00 00
+Photographic film rolls for the manufacture of photoforms in printing over 610 mm wide and more than 200 m long
+3702 43 00 00
+Photographic film rolls for the manufacture of photoforms in printing over 610 mm wide and more than 200 m long
+3702 44 00 91
+Photographic film rolls for the manufacture of photoforms in printing, with a width of more than 105 mm, but not more than 610 mm and a length of more than 200 m for instant photography
+3702 44 00 99
+Photographic film rolls for the manufacture of photoforms in printing, with a width of more than 105 mm, but not more than 610 mm and a length of more than 200 m, other
+3907 50 00 00
+Alkyd resins
+4008 21 90 00
+Offset rubber plates of non-porous rubber, except floor coverings and mats
+4703 21 00 00
+Pulp of wood, soda or sulphate, other than soluble varieties, semi-bleached or bleached from softwood
+4703 29 00 00
+Pulp of wood, soda or sulphate, other than soluble varieties, semi-bleached or bleached from broadleaved species
+4704 21 00 00
+Pulp of wood sulphite, other than soluble varieties, semi-bleached or bleached from softwood
+4707 90 10 00
+Unsorted waste paper and cardboard and scrap paper
+4707 90 90 00
+Sorted waste paper and cardboard and scrap paper
+5901 10 00 00
+Only textile materials used to make book covers
+8439 10 00 00,
+8439 20 00 00,
+8439 30 00 00
+Equipment for producing pulp of fibrous cellulosic material or for producing or processing paper or paperboard
+8440 10 10 00
+8440 10 20 00
+8440 10 30 00
+8440 10 40 00
+8440 10 90 00
+Mandrel equipment, including stitching machines
+8441 10 10 00
+8441 10 20 00
+8441 10 30 00
+8441 10 40 00
+8441 10 80 00
+Cutting machines
+8443 11 00 00,
+8443 13 10 00,
+8443 13 31 00,
+8443 13 35 00,
+8443 13 39 00,
+8443 13 90 00,
+8443 91 91 10,
+8443 91 99 10,
+8443 91 99 90,
+8443 99 90 10,
+8443 99 90 90
+Offset printing machinery and equipment and parts thereof, except for headings: 8443 19 40 00, 8443 91 10 00, 8443 99 10 00;

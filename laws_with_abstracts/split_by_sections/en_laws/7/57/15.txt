@@ -1,0 +1,1 @@
+2) A discount, the amount of which is specified in the rules, may be applied.

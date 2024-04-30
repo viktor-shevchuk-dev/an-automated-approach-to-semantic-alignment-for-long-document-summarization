@@ -1,0 +1,1 @@
+Probation period does not include the days when the employee did not actually work, regardless of the reason.

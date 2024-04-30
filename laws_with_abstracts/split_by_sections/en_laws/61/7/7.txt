@@ -1,0 +1,1 @@
+accept dangerous cargos for transportation, if cargo and its documents meet the established requirements;

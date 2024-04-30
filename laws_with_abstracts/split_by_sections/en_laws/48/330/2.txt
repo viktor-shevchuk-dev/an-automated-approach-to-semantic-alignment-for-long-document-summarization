@@ -1,0 +1,1 @@
+a request (application) that shall specify the nature of a loan agreement, the purpose of using a loan, the amount of the loan and the term of its use;

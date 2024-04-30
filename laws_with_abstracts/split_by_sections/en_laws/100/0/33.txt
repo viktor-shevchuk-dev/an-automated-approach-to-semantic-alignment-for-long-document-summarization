@@ -1,0 +1,1 @@
+execution moment of export (import) contract – the moment at which all obligations under the specified contract, including bills (drafts) execution or credit agreements conclusion, have been fulfilled;

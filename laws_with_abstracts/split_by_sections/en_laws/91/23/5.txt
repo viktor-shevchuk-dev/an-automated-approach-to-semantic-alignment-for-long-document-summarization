@@ -1,0 +1,1 @@
+2. If a certificate is recognised to be invalid in whole or in part, NIPO shall inform about that in its Bulletin.

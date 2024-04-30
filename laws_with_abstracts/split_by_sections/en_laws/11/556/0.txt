@@ -1,0 +1,1 @@
+Article 546. Information that contains state secret

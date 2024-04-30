@@ -1,0 +1,8 @@
+statistical information (official documentary state information giving quantity characteristics of mass phenomena and processes which happen in economic, social, cultural and other spheres of life);
+administrative information (data) (official documentary data giving quantity characteristics of mass phenomena and processes which happen in economic, social, cultural and other spheres of life and which are collected, used, spread and kept by bodies of state power (except for bodies of state statistics), bodies of local self-government, legal entities according to the legislation, for fulfillment of administrative duties and tasks which are in their competence);
+mass information (publicly spread printed and audio visual information);
+information about activity of state bodies of power and bodies of local and regional self-government (official documentary information created in the course of current activity of legislative, executive and judicial power, bodies of regional and local self-government);
+legal information (totality of documentary or publicly announced information about law, its system, sources, realization, legal facts, legal relations, crimes and fight against them, their preventive measures etc.);
+information about personality (totality of documentary or publicly announced information about personality);
+information of reference encyclopedic character (systematized, documentary or publicly announced information about social, state life and environment);
+sociological information (documentary or publicly announced information about relation of separate citizens and social groups to social events and phenomena, processes, facts).

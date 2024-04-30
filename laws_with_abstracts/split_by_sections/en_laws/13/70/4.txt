@@ -1,0 +1,1 @@
+4. The structure of the ten-digit digital code designation of goods in UKT ZED includes group code (first two characters), product position (first four characters), product subheading (first six characters), product category (first eight characters), product subcategory (ten characters).

@@ -1,0 +1,1 @@
+semi-trailer is a trailer whose axis (axes) is located behind the centre of mass of the vehicle (given uniform loading) and which is equipped with a coupling device that ensures the transfer of horizontal and vertical forces to another cargo performing the functions of a tractive unit;

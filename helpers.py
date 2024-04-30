@@ -55,9 +55,9 @@ def read_files_from_directory(directory_path, is_nested_structure=True):
     return file_texts
 
 
-def get_references(document_type):
-    return read_files_from_directory(os.path.join(os.path.curdir, "english_laws_with_abstracts", document_type))
+def get_references(language, document_type):
+    return read_files_from_directory(os.path.join(os.path.curdir, "laws_with_abstracts", language, document_type))
 
 
 def get_summarized(method, model):
-    return read_files_from_directory(os.path.join(os.path.curdir, "english_laws_with_abstracts", "summarized", method, model), is_nested_structure=False)
+    return read_files_from_directory(os.path.join(os.path.curdir, "laws_with_abstracts", "summarized", method, model), is_nested_structure=False)

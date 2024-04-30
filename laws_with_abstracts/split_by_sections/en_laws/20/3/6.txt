@@ -1,0 +1,1 @@
+Construction objects shall not include oil and gas wells and their construction objects.

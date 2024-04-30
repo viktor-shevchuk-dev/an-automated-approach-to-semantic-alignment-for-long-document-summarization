@@ -1,0 +1,1 @@
+7) render land plots in floodplains for any construction (except for hydraulic, hydrometric and linear structures), as well as for horticulture and gardening;

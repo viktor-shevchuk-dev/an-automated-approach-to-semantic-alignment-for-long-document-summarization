@@ -1,0 +1,2 @@
+Approach,Method,Language,rouge_1,rouge_2,rouge_L,avg_rouge,precision,recall,f1
+extractive,ReductionSummarizer,ukrainian,0.16,0.05,0.14,0.12,0.89,0.89,0.89

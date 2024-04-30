@@ -1,0 +1,1 @@
+ensure preparation of cargo for dispatch, provide the carrier with dangerous cargo in appropriate packaging (package, large package, medium-capacity containers for bulk cargo), container, tank and packaging;

@@ -1,0 +1,1 @@
+If the master requests that the pilot operator of the vessel traffic control service restore the radar piloting of the vessel, their request shall be granted.

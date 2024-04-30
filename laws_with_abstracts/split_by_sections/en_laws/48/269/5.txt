@@ -1,0 +1,1 @@
+immovable property (buildings, structures, rooms);

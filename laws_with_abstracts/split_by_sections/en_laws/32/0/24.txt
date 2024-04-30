@@ -1,0 +1,1 @@
+heat metering device is a measuring device that has normalised metrological characteristics and the type of which is entered in the Register of approved types of measuring equipment, based on the readings of which the amount of heat consumed is determined;

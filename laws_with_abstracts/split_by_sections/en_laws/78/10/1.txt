@@ -1,0 +1,1 @@
+Pipeline transport lands include land plots on which are built ground surface and above ground pipelines and their structures, as well as ground surface structures of underground pipelines.

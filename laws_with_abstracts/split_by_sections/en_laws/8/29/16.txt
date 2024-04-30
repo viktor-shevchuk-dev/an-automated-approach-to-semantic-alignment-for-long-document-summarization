@@ -1,0 +1,1 @@
+6. The contract can be terminated ahead the schedule in the following cases:

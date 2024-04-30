@@ -1,0 +1,1 @@
+list and number of product samples collected, specifying the manufacturer, date of production, series(s) of the lot, total cost of samples.

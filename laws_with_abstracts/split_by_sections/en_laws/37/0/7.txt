@@ -1,0 +1,1 @@
+route (line) – the direction of movement of the tram, trolleybus (metro train, rapid tram) according to the established schedule between designated and properly equipped points at stops;

@@ -1,0 +1,1 @@
+8) Voting results, indicating the number of votes "in favour", "against" and "abstained" on each item put to the vote by polling method and the resolutions adopted on each item;

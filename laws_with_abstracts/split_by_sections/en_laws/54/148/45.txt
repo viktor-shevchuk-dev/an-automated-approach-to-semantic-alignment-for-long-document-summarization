@@ -1,0 +1,1 @@
+temporarily suspend the auction and announce a break in case the participants violate the auction rules.

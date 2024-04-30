@@ -1,0 +1,1 @@
+3. The period calculated in month shall end on the respective day of the last month of the period. If the expiration of the period calculated in months falls on a month without the respective day, the period shall expire on the last day of this month.

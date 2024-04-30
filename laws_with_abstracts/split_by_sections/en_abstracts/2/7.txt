@@ -1,0 +1,5 @@
+junior bachelor;
+bachelor;
+master;
+doctor of philosophy;
+doctor of sciences.

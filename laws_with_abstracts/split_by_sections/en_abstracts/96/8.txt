@@ -1,0 +1,7 @@
+politics;
+economy;
+social sphere;
+spiritual sphere;
+ecology;
+science and technology;
+international sphere.

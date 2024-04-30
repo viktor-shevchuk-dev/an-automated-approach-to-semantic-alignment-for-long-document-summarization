@@ -1,0 +1,1 @@
+If at least two participants have expressed their readiness to purchase the lot at the starting price, the auctioneer increases the starting price by an auction step with a subsequent successive price increase.

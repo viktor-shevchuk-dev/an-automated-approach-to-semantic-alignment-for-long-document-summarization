@@ -1,0 +1,1 @@
+The design organisation that developed the design documentation, as well as the chief architect and the chief engineer of the project are responsible for the compliance of the design documentation with the initial design data, the requirements of regulations and rules.

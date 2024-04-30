@@ -1,0 +1,1 @@
+electronic platform shall mean a hardware and software complex operating on the Internet, connected to a central database and providing the auction customer, persons intending to participate in the auction, and participants with the opportunity to use electronic trading system with automatic exchange of information on the auction process in electronic form;

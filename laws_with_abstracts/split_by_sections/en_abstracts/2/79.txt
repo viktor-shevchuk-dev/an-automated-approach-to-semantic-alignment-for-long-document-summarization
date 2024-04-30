@@ -1,0 +1,11 @@
+head (rector, president, supervisor, director);
+deputy head (pro-rector, vice president, deputy supervisor, deputy director, deputy head) whose work is directly related to the education or academic process;
+institute director (supervisor) and their deputies whose work is directly related to the education or academic process;
+faculty dean (supervisor) and their deputies whose work is directly related to the education or academic process;
+library director;
+department head (supervisor);
+professor;
+associate professor;
+senior instructor, instructor, assistant, apprentice instructor;
+library researcher;
+post-graduate program head, doctoral program head.

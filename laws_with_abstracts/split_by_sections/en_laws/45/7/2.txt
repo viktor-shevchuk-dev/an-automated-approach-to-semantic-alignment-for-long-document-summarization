@@ -1,0 +1,1 @@
+1) interaction with the applicant in “question-answer” format (with an option to choose Ukrainian or English interface);

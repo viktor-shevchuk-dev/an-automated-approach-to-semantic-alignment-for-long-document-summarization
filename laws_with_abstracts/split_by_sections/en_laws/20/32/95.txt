@@ -1,0 +1,1 @@
+3) Cadastre number of the land plot on which the object is located;

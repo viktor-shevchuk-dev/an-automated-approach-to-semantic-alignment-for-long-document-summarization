@@ -1,0 +1,1 @@
+If the price offered by one of the participants is higher than the price announced by the auctioneer, but not divisible by the auction step, the auctioneer shall interpret such an offer as the participant's consent to increase the price by the appropriate number of auction steps, announce the participant's number with the offered price divisible by the auction step.

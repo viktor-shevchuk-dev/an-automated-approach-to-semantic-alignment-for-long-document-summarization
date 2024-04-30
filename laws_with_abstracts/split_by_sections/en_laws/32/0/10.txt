@@ -1,0 +1,1 @@
+local (distribution) thermal power system is a set of power units, equipment and pipelines that provides transportation of heat transfer medium from a thermal energy source, central heat supply station or main heating network to the consumer's heat input;

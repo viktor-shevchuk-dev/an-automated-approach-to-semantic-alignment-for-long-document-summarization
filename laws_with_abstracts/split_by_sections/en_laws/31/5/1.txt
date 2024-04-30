@@ -1,0 +1,1 @@
+Table wines shall be made as varietal or blended.

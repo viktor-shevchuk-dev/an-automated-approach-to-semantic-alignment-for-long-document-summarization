@@ -1,0 +1,1 @@
+8) implementation of the state architectural and construction control over objects located within and outside localities, on the territory of several administrative and territorial units specified in clause 7, part one of this Article.

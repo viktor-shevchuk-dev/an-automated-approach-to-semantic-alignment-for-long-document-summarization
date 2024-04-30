@@ -1,0 +1,1 @@
+1) include heating of each part of the foodstuff under processing to a specified temperature within a specified period of time;

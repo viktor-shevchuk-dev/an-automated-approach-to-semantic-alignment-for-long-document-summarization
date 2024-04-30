@@ -1,0 +1,1 @@
+heavy-weight vehicle is a vehicle with or without cargo, at least one of the weight parameters of which exceeds the permissible maximum weight or axial loading established on the territory of Ukraine;

@@ -1,0 +1,1 @@
+identifier of the construction object (completed construction object) – for objects, which are assigned with the identifier of the construction object (completed construction object) before submitting the notice.

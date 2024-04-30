@@ -1,0 +1,1 @@
+- if a party has more than one place of business, then the one that is most related to the arbitration agreement shall be deemed the place of business;

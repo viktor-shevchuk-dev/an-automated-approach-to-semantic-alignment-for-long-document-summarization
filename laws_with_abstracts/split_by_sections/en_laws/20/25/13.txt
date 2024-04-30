@@ -1,0 +1,1 @@
+2. The map base of the State Land Cadastre shall be used to display the geospatial information on the electronic system portal.

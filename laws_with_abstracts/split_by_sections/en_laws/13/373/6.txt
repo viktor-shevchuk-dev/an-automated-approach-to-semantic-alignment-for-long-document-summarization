@@ -1,0 +1,1 @@
+c) definition of the criteria with predefined parameters that enable selecting the object of control that represents the risk (risk indicators);

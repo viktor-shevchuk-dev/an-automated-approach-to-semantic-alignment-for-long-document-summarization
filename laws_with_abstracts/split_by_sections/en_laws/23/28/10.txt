@@ -1,0 +1,1 @@
+The list of violations of the established requirements, which are considered formal non-compliance, shall be specified in the relevant technical regulations.

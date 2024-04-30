@@ -1,0 +1,1 @@
+diagnostic monitoring of pipeline conditions with functional tools and in accordance with the rules of technical operation and the legislation acts on diagnostics;

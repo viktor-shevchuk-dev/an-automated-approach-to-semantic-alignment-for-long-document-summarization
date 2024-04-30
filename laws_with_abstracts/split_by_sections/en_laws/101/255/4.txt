@@ -1,0 +1,1 @@
+The term, calculated in weeks, shall end on the corresponding day of the week.

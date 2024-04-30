@@ -1,0 +1,1 @@
+taximeter is a device charged by to inform passengers about the value of a travel and register the parameters of work of a taxi defined by law;

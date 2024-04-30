@@ -1,0 +1,1 @@
+5) name, description, other information which make it possible to identify items and documents, to which access shall be granted;

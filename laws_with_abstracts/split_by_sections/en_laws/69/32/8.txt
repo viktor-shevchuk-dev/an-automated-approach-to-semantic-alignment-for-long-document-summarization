@@ -1,0 +1,1 @@
+area, location of the land plot or its part, cadastral number of the land plot (if any);

@@ -1,0 +1,1 @@
+n) High-risk facility has no dispatch service or this service is not ready to do the assigned job due to lack of respective documents, instruments, equipment, or individual protection equipment;

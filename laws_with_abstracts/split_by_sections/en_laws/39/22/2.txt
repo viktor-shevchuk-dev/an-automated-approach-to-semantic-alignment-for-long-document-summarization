@@ -1,0 +1,1 @@
+In case of termination before expiry or suspension of the certificate, a corresponding record shall be made in the specified register.
